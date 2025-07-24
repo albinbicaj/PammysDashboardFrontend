@@ -1,0 +1,109 @@
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@tailwind base;
+/* @tailwind components; */
+
+/* @tailwind utilities; */
+/* @layer utilities {
+  @variants responsive {
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+  }
+} */
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.input__tag-wrapper .MuiTextField-root .MuiFilledInput-root {
+  padding-top: 0;
+  background: #ffffff;
+  border: 1px solid hsl(0, 0%, 70%);
+  border-radius: 8px;
+  min-height: 42px;
+  max-width: 390px;
+}
+
+.input__tag-wrapper .css-hwkq3c-MuiInputBase-root-MuiFilledInput-root::after,
+.input__tag-wrapper .css-hwkq3c-MuiInputBase-root-MuiFilledInput-root::before {
+  border: none;
+}
+
+.css-1x8o21m-container .css-13cymwt-control,
+.css-10bf0nz-container .css-13cymwt-control,
+#root .css-1n5877y-MuiPaper-root {
+  border-radius: 8px;
+}
+
+input[type='file'] {
+  display: none;
+}
+
+.custom-file-upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.cursor-not-allowed {
+  cursor: not-allowed;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  pointer-events: all !important;
+  opacity: 0.6;
+}
+
+.enabled-item[aria-current='page'],
+.enabled-item.active {
+  background-color: #e5e7eb;
+}
+
+body iframe {
+  display: none;
+}
+
+body .css-hwkq3c-MuiInputBase-root-MuiFilledInput-root:hover:not(.Mui-disabled, .Mui-error):before {
+  border-bottom: 0px solid hsl(0, 0%, 70%);
+  border-radius: 7px;
+}
+
+.modal__post label {
+  margin-bottom: 3px;
+}
+
+.MuiBackdrop-root.MuiModal-backdrop {
+  background-color: transparent;
+}
+
+body .MuiFilledInput-root.MuiFilledInput-underline::after,
+body .MuiFilledInput-root.MuiFilledInput-underline::before {
+  border-bottom: none !important;
+}
+
+.MuiStack-root .MuiAlert-icon {
+  display: none;
+}
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.CRT-PD .MuiTablePagination-displayedRows {
+  display: none !important;
+}

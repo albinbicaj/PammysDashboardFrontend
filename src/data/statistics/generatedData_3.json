@@ -1,0 +1,4982 @@
+[
+  {
+    "variant_id": 47963504509237,
+    "title": "Pummys™ - COZY - Rosa / 37/38",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 37/38",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 2
+        },
+        {
+          "reason": "Wrong size",
+          "count": 50
+        },
+        {
+          "reason": "Wrong color",
+          "count": 2
+        },
+        {
+          "reason": "Not as described",
+          "count": 50
+        },
+        {
+          "reason": "Changed mind",
+          "count": 31
+        },
+        {
+          "reason": "Other",
+          "count": 11
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 65
+        },
+        {
+          "returnType": "exchange",
+          "count": 50
+        },
+        {
+          "returnType": "return",
+          "count": 31
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504771381,
+    "title": "Pummys™ - COZY - Grau / 42/43",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 99,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 47
+        },
+        {
+          "reason": "Wrong size",
+          "count": 49
+        },
+        {
+          "reason": "Wrong color",
+          "count": 29
+        },
+        {
+          "reason": "Not as described",
+          "count": 29
+        },
+        {
+          "reason": "Changed mind",
+          "count": 3
+        },
+        {
+          "reason": "Other",
+          "count": 24
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 76
+        },
+        {
+          "returnType": "return",
+          "count": 81
+        },
+        {
+          "returnType": "refund",
+          "count": 24
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491303733,
+    "title": "Pummys™ - Belt - Rosa / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Rosa / 36/37",
+    "inventory_quantity": 44,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 13
+        },
+        {
+          "reason": "Wrong size",
+          "count": 8
+        },
+        {
+          "reason": "Wrong color",
+          "count": 11
+        },
+        {
+          "reason": "Not as described",
+          "count": 23
+        },
+        {
+          "reason": "Changed mind",
+          "count": 38
+        },
+        {
+          "reason": "Other",
+          "count": 1
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 14
+        },
+        {
+          "returnType": "return",
+          "count": 42
+        },
+        {
+          "returnType": "refund",
+          "count": 38
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492155701,
+    "title": "Pummys™ - Belt - Khaki / 38/39",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 38/39",
+    "inventory_quantity": 22,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 25
+        },
+        {
+          "reason": "Wrong size",
+          "count": 23
+        },
+        {
+          "reason": "Wrong color",
+          "count": 34
+        },
+        {
+          "reason": "Not as described",
+          "count": 39
+        },
+        {
+          "reason": "Changed mind",
+          "count": 50
+        },
+        {
+          "reason": "Other",
+          "count": 5
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 119
+        },
+        {
+          "returnType": "refund",
+          "count": 23
+        },
+        {
+          "returnType": "exchange",
+          "count": 34
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491729717,
+    "title": "Pummys™ - Belt - Schwarz / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 42/43",
+    "inventory_quantity": 3,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 20
+        },
+        {
+          "reason": "Wrong size",
+          "count": 10
+        },
+        {
+          "reason": "Wrong color",
+          "count": 37
+        },
+        {
+          "reason": "Not as described",
+          "count": 24
+        },
+        {
+          "reason": "Changed mind",
+          "count": 32
+        },
+        {
+          "reason": "Other",
+          "count": 29
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 67
+        },
+        {
+          "returnType": "exchange",
+          "count": 56
+        },
+        {
+          "returnType": "return",
+          "count": 29
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504771381,
+    "title": "Pummys™ - COZY - Grau / 42/43",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 99,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 16
+        },
+        {
+          "reason": "Wrong size",
+          "count": 41
+        },
+        {
+          "reason": "Wrong color",
+          "count": 36
+        },
+        {
+          "reason": "Not as described",
+          "count": 45
+        },
+        {
+          "reason": "Changed mind",
+          "count": 9
+        },
+        {
+          "reason": "Other",
+          "count": 6
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 147
+        },
+        {
+          "returnType": "refund",
+          "count": 6
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963452768565,
+    "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Jahressale - Schwarz / XS/S / Extra warm (0 bis -10°C)",
+    "price": "24.99",
+    "product_id": 9077969289525,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Jahressale",
+    "variant_title": "Schwarz / XS/S / Extra warm (0 bis -10°C)",
+    "inventory_quantity": 3304,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 8
+        },
+        {
+          "reason": "Wrong size",
+          "count": 5
+        },
+        {
+          "reason": "Wrong color",
+          "count": 12
+        },
+        {
+          "reason": "Not as described",
+          "count": 21
+        },
+        {
+          "reason": "Changed mind",
+          "count": 12
+        },
+        {
+          "reason": "Other",
+          "count": 38
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 70
+        },
+        {
+          "returnType": "exchange",
+          "count": 26
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492024629,
+    "title": "Pummys™ - Belt - Grau / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 40/41",
+    "inventory_quantity": 74,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 47
+        },
+        {
+          "reason": "Wrong size",
+          "count": 32
+        },
+        {
+          "reason": "Wrong color",
+          "count": 29
+        },
+        {
+          "reason": "Not as described",
+          "count": 47
+        },
+        {
+          "reason": "Changed mind",
+          "count": 14
+        },
+        {
+          "reason": "Other",
+          "count": 44
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 120
+        },
+        {
+          "returnType": "return",
+          "count": 79
+        },
+        {
+          "returnType": "refund",
+          "count": 14
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504640309,
+    "title": "Pummys™ - COZY - Rosa / 44/45",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 44/45",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 1
+        },
+        {
+          "reason": "Wrong size",
+          "count": 37
+        },
+        {
+          "reason": "Wrong color",
+          "count": 32
+        },
+        {
+          "reason": "Not as described",
+          "count": 49
+        },
+        {
+          "reason": "Changed mind",
+          "count": 13
+        },
+        {
+          "reason": "Other",
+          "count": 21
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 38
+        },
+        {
+          "returnType": "exchange",
+          "count": 102
+        },
+        {
+          "returnType": "return",
+          "count": 13
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504738613,
+    "title": "Pummys™ - COZY - Grau / 40/41",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 40/41",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 44
+        },
+        {
+          "reason": "Wrong size",
+          "count": 5
+        },
+        {
+          "reason": "Wrong color",
+          "count": 3
+        },
+        {
+          "reason": "Not as described",
+          "count": 47
+        },
+        {
+          "reason": "Changed mind",
+          "count": 34
+        },
+        {
+          "reason": "Other",
+          "count": 6
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 49
+        },
+        {
+          "returnType": "refund",
+          "count": 50
+        },
+        {
+          "returnType": "return",
+          "count": 40
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491369269,
+    "title": "Pummys™ - Belt - Rosa / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Rosa / 40/41",
+    "inventory_quantity": 127,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 48
+        },
+        {
+          "reason": "Wrong size",
+          "count": 32
+        },
+        {
+          "reason": "Wrong color",
+          "count": 12
+        },
+        {
+          "reason": "Not as described",
+          "count": 0
+        },
+        {
+          "reason": "Changed mind",
+          "count": 33
+        },
+        {
+          "reason": "Other",
+          "count": 18
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 99
+        },
+        {
+          "returnType": "return",
+          "count": 32
+        },
+        {
+          "returnType": "refund",
+          "count": 12
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491893557,
+    "title": "Pummys™ - Belt - Beige / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Beige / 42/43",
+    "inventory_quantity": 151,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 44
+        },
+        {
+          "reason": "Wrong size",
+          "count": 24
+        },
+        {
+          "reason": "Wrong color",
+          "count": 22
+        },
+        {
+          "reason": "Not as described",
+          "count": 25
+        },
+        {
+          "reason": "Changed mind",
+          "count": 27
+        },
+        {
+          "reason": "Other",
+          "count": 0
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 90
+        },
+        {
+          "returnType": "exchange",
+          "count": 25
+        },
+        {
+          "returnType": "refund",
+          "count": 27
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492286773,
+    "title": "Pummys™ - Belt - Khaki / 44/45",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 44/45",
+    "inventory_quantity": 8,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 8
+        },
+        {
+          "reason": "Wrong size",
+          "count": 35
+        },
+        {
+          "reason": "Wrong color",
+          "count": 16
+        },
+        {
+          "reason": "Not as described",
+          "count": 42
+        },
+        {
+          "reason": "Changed mind",
+          "count": 41
+        },
+        {
+          "reason": "Other",
+          "count": 47
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 65
+        },
+        {
+          "returnType": "return",
+          "count": 35
+        },
+        {
+          "returnType": "exchange",
+          "count": 89
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492221237,
+    "title": "Pummys™ - Belt - Khaki / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 42/43",
+    "inventory_quantity": 70,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 16
+        },
+        {
+          "reason": "Wrong size",
+          "count": 14
+        },
+        {
+          "reason": "Wrong color",
+          "count": 11
+        },
+        {
+          "reason": "Not as described",
+          "count": 7
+        },
+        {
+          "reason": "Changed mind",
+          "count": 20
+        },
+        {
+          "reason": "Other",
+          "count": 48
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 75
+        },
+        {
+          "returnType": "return",
+          "count": 21
+        },
+        {
+          "returnType": "refund",
+          "count": 20
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492188469,
+    "title": "Pummys™ - Belt - Khaki / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 40/41",
+    "inventory_quantity": 44,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 43
+        },
+        {
+          "reason": "Wrong size",
+          "count": 11
+        },
+        {
+          "reason": "Wrong color",
+          "count": 18
+        },
+        {
+          "reason": "Not as described",
+          "count": 28
+        },
+        {
+          "reason": "Changed mind",
+          "count": 39
+        },
+        {
+          "reason": "Other",
+          "count": 15
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 108
+        },
+        {
+          "returnType": "return",
+          "count": 18
+        },
+        {
+          "returnType": "exchange",
+          "count": 28
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504673077,
+    "title": "Pummys™ - COZY - Grau / 37/38",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 37/38",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 29
+        },
+        {
+          "reason": "Wrong size",
+          "count": 3
+        },
+        {
+          "reason": "Wrong color",
+          "count": 31
+        },
+        {
+          "reason": "Not as described",
+          "count": 41
+        },
+        {
+          "reason": "Changed mind",
+          "count": 6
+        },
+        {
+          "reason": "Other",
+          "count": 30
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 62
+        },
+        {
+          "returnType": "refund",
+          "count": 72
+        },
+        {
+          "returnType": "return",
+          "count": 6
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963457388853,
+    "title": "Gefütterte Thermo-Leggings - Schwarz / XS",
+    "price": "59.99",
+    "product_id": 9077972107573,
+    "product_title": "Gefütterte Thermo-Leggings",
+    "variant_title": "Schwarz / XS",
+    "inventory_quantity": 722,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 15
+        },
+        {
+          "reason": "Wrong size",
+          "count": 16
+        },
+        {
+          "reason": "Wrong color",
+          "count": 19
+        },
+        {
+          "reason": "Not as described",
+          "count": 48
+        },
+        {
+          "reason": "Changed mind",
+          "count": 13
+        },
+        {
+          "reason": "Other",
+          "count": 28
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 63
+        },
+        {
+          "returnType": "refund",
+          "count": 57
+        },
+        {
+          "returnType": "return",
+          "count": 19
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492090165,
+    "title": "Pummys™ - Belt - Grau / 44/45",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 44/45",
+    "inventory_quantity": 13,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 39
+        },
+        {
+          "reason": "Wrong size",
+          "count": 26
+        },
+        {
+          "reason": "Wrong color",
+          "count": 6
+        },
+        {
+          "reason": "Not as described",
+          "count": 16
+        },
+        {
+          "reason": "Changed mind",
+          "count": 42
+        },
+        {
+          "reason": "Other",
+          "count": 33
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 97
+        },
+        {
+          "returnType": "exchange",
+          "count": 59
+        },
+        {
+          "returnType": "return",
+          "count": 6
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 48538476708149,
+    "title": "Gift Card - Default Title",
+    "price": "20.00",
+    "product_id": 9270989390133,
+    "product_title": "Gift Card",
+    "variant_title": "Default Title",
+    "inventory_quantity": 200,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 27
+        },
+        {
+          "reason": "Wrong size",
+          "count": 43
+        },
+        {
+          "reason": "Wrong color",
+          "count": 39
+        },
+        {
+          "reason": "Not as described",
+          "count": 18
+        },
+        {
+          "reason": "Changed mind",
+          "count": 21
+        },
+        {
+          "reason": "Other",
+          "count": 32
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 98
+        },
+        {
+          "returnType": "exchange",
+          "count": 82
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504574773,
+    "title": "Pummys™ - COZY - Rosa / 40/41",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 40/41",
+    "inventory_quantity": 99,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 34
+        },
+        {
+          "reason": "Wrong size",
+          "count": 33
+        },
+        {
+          "reason": "Wrong color",
+          "count": 34
+        },
+        {
+          "reason": "Not as described",
+          "count": 35
+        },
+        {
+          "reason": "Changed mind",
+          "count": 46
+        },
+        {
+          "reason": "Other",
+          "count": 27
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 80
+        },
+        {
+          "returnType": "exchange",
+          "count": 67
+        },
+        {
+          "returnType": "refund",
+          "count": 62
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491303733,
+    "title": "Pummys™ - Belt - Rosa / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Rosa / 36/37",
+    "inventory_quantity": 44,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 23
+        },
+        {
+          "reason": "Wrong size",
+          "count": 23
+        },
+        {
+          "reason": "Wrong color",
+          "count": 4
+        },
+        {
+          "reason": "Not as described",
+          "count": 22
+        },
+        {
+          "reason": "Changed mind",
+          "count": 47
+        },
+        {
+          "reason": "Other",
+          "count": 44
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 136
+        },
+        {
+          "returnType": "exchange",
+          "count": 27
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491664181,
+    "title": "Pummys™ - Belt - Schwarz / 38/39",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 38/39",
+    "inventory_quantity": 65,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 47
+        },
+        {
+          "reason": "Wrong size",
+          "count": 22
+        },
+        {
+          "reason": "Wrong color",
+          "count": 49
+        },
+        {
+          "reason": "Not as described",
+          "count": 39
+        },
+        {
+          "reason": "Changed mind",
+          "count": 27
+        },
+        {
+          "reason": "Other",
+          "count": 12
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 130
+        },
+        {
+          "returnType": "exchange",
+          "count": 39
+        },
+        {
+          "returnType": "refund",
+          "count": 27
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504771381,
+    "title": "Pummys™ - COZY - Grau / 42/43",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 99,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 24
+        },
+        {
+          "reason": "Wrong size",
+          "count": 29
+        },
+        {
+          "reason": "Wrong color",
+          "count": 5
+        },
+        {
+          "reason": "Not as described",
+          "count": 26
+        },
+        {
+          "reason": "Changed mind",
+          "count": 24
+        },
+        {
+          "reason": "Other",
+          "count": 44
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 68
+        },
+        {
+          "returnType": "return",
+          "count": 53
+        },
+        {
+          "returnType": "exchange",
+          "count": 31
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492188469,
+    "title": "Pummys™ - Belt - Khaki / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 40/41",
+    "inventory_quantity": 44,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 46
+        },
+        {
+          "reason": "Wrong size",
+          "count": 39
+        },
+        {
+          "reason": "Wrong color",
+          "count": 6
+        },
+        {
+          "reason": "Not as described",
+          "count": 27
+        },
+        {
+          "reason": "Changed mind",
+          "count": 29
+        },
+        {
+          "reason": "Other",
+          "count": 25
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 141
+        },
+        {
+          "returnType": "exchange",
+          "count": 31
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492221237,
+    "title": "Pummys™ - Belt - Khaki / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 42/43",
+    "inventory_quantity": 70,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 12
+        },
+        {
+          "reason": "Wrong size",
+          "count": 35
+        },
+        {
+          "reason": "Wrong color",
+          "count": 27
+        },
+        {
+          "reason": "Not as described",
+          "count": 31
+        },
+        {
+          "reason": "Changed mind",
+          "count": 36
+        },
+        {
+          "reason": "Other",
+          "count": 3
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 78
+        },
+        {
+          "returnType": "return",
+          "count": 30
+        },
+        {
+          "returnType": "exchange",
+          "count": 36
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491959093,
+    "title": "Pummys™ - Belt - Grau / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 36/37",
+    "inventory_quantity": 26,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 36
+        },
+        {
+          "reason": "Wrong size",
+          "count": 10
+        },
+        {
+          "reason": "Wrong color",
+          "count": 33
+        },
+        {
+          "reason": "Not as described",
+          "count": 3
+        },
+        {
+          "reason": "Changed mind",
+          "count": 34
+        },
+        {
+          "reason": "Other",
+          "count": 37
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 106
+        },
+        {
+          "returnType": "exchange",
+          "count": 44
+        },
+        {
+          "returnType": "refund",
+          "count": 3
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491336501,
+    "title": "Pummys™ - Belt - Rosa / 38/39",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Rosa / 38/39",
+    "inventory_quantity": 197,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 7
+        },
+        {
+          "reason": "Wrong size",
+          "count": 44
+        },
+        {
+          "reason": "Wrong color",
+          "count": 8
+        },
+        {
+          "reason": "Not as described",
+          "count": 25
+        },
+        {
+          "reason": "Changed mind",
+          "count": 28
+        },
+        {
+          "reason": "Other",
+          "count": 12
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 80
+        },
+        {
+          "returnType": "exchange",
+          "count": 44
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963452768565,
+    "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Jahressale - Schwarz / XS/S / Extra warm (0 bis -10°C)",
+    "price": "24.99",
+    "product_id": 9077969289525,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Jahressale",
+    "variant_title": "Schwarz / XS/S / Extra warm (0 bis -10°C)",
+    "inventory_quantity": 3304,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 39
+        },
+        {
+          "reason": "Wrong size",
+          "count": 32
+        },
+        {
+          "reason": "Wrong color",
+          "count": 27
+        },
+        {
+          "reason": "Not as described",
+          "count": 12
+        },
+        {
+          "reason": "Changed mind",
+          "count": 49
+        },
+        {
+          "reason": "Other",
+          "count": 39
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 100
+        },
+        {
+          "returnType": "exchange",
+          "count": 59
+        },
+        {
+          "returnType": "return",
+          "count": 39
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504607541,
+    "title": "Pummys™ - COZY - Rosa / 42/43",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 42/43",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 1
+        },
+        {
+          "reason": "Wrong size",
+          "count": 47
+        },
+        {
+          "reason": "Wrong color",
+          "count": 41
+        },
+        {
+          "reason": "Not as described",
+          "count": 13
+        },
+        {
+          "reason": "Changed mind",
+          "count": 47
+        },
+        {
+          "reason": "Other",
+          "count": 34
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 129
+        },
+        {
+          "returnType": "return",
+          "count": 41
+        },
+        {
+          "returnType": "refund",
+          "count": 13
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492221237,
+    "title": "Pummys™ - Belt - Khaki / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 42/43",
+    "inventory_quantity": 70,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 28
+        },
+        {
+          "reason": "Wrong size",
+          "count": 20
+        },
+        {
+          "reason": "Wrong color",
+          "count": 37
+        },
+        {
+          "reason": "Not as described",
+          "count": 1
+        },
+        {
+          "reason": "Changed mind",
+          "count": 16
+        },
+        {
+          "reason": "Other",
+          "count": 19
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 67
+        },
+        {
+          "returnType": "refund",
+          "count": 54
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491828021,
+    "title": "Pummys™ - Belt - Beige / 38/39",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Beige / 38/39",
+    "inventory_quantity": 299,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 10
+        },
+        {
+          "reason": "Wrong size",
+          "count": 10
+        },
+        {
+          "reason": "Wrong color",
+          "count": 47
+        },
+        {
+          "reason": "Not as described",
+          "count": 43
+        },
+        {
+          "reason": "Changed mind",
+          "count": 45
+        },
+        {
+          "reason": "Other",
+          "count": 7
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 57
+        },
+        {
+          "returnType": "refund",
+          "count": 17
+        },
+        {
+          "returnType": "exchange",
+          "count": 88
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504738613,
+    "title": "Pummys™ - COZY - Grau / 40/41",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 40/41",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 40
+        },
+        {
+          "reason": "Wrong size",
+          "count": 15
+        },
+        {
+          "reason": "Wrong color",
+          "count": 44
+        },
+        {
+          "reason": "Not as described",
+          "count": 14
+        },
+        {
+          "reason": "Changed mind",
+          "count": 37
+        },
+        {
+          "reason": "Other",
+          "count": 47
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 136
+        },
+        {
+          "returnType": "refund",
+          "count": 14
+        },
+        {
+          "returnType": "exchange",
+          "count": 47
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491860789,
+    "title": "Pummys™ - Belt - Beige / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Beige / 40/41",
+    "inventory_quantity": 229,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 1
+        },
+        {
+          "reason": "Wrong size",
+          "count": 24
+        },
+        {
+          "reason": "Wrong color",
+          "count": 35
+        },
+        {
+          "reason": "Not as described",
+          "count": 30
+        },
+        {
+          "reason": "Changed mind",
+          "count": 38
+        },
+        {
+          "reason": "Other",
+          "count": 21
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 66
+        },
+        {
+          "returnType": "refund",
+          "count": 45
+        },
+        {
+          "returnType": "exchange",
+          "count": 38
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491860789,
+    "title": "Pummys™ - Belt - Beige / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Beige / 40/41",
+    "inventory_quantity": 229,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 7
+        },
+        {
+          "reason": "Wrong size",
+          "count": 20
+        },
+        {
+          "reason": "Wrong color",
+          "count": 26
+        },
+        {
+          "reason": "Not as described",
+          "count": 3
+        },
+        {
+          "reason": "Changed mind",
+          "count": 11
+        },
+        {
+          "reason": "Other",
+          "count": 48
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 36
+        },
+        {
+          "returnType": "exchange",
+          "count": 68
+        },
+        {
+          "returnType": "return",
+          "count": 11
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492221237,
+    "title": "Pummys™ - Belt - Khaki / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 42/43",
+    "inventory_quantity": 70,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 13
+        },
+        {
+          "reason": "Wrong size",
+          "count": 11
+        },
+        {
+          "reason": "Wrong color",
+          "count": 39
+        },
+        {
+          "reason": "Not as described",
+          "count": 10
+        },
+        {
+          "reason": "Changed mind",
+          "count": 23
+        },
+        {
+          "reason": "Other",
+          "count": 21
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 45
+        },
+        {
+          "returnType": "return",
+          "count": 72
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492057397,
+    "title": "Pummys™ - Belt - Grau / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 61,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 17
+        },
+        {
+          "reason": "Wrong size",
+          "count": 30
+        },
+        {
+          "reason": "Wrong color",
+          "count": 3
+        },
+        {
+          "reason": "Not as described",
+          "count": 46
+        },
+        {
+          "reason": "Changed mind",
+          "count": 47
+        },
+        {
+          "reason": "Other",
+          "count": 48
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 110
+        },
+        {
+          "returnType": "refund",
+          "count": 78
+        },
+        {
+          "returnType": "exchange",
+          "count": 3
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492057397,
+    "title": "Pummys™ - Belt - Grau / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 61,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 35
+        },
+        {
+          "reason": "Wrong size",
+          "count": 38
+        },
+        {
+          "reason": "Wrong color",
+          "count": 43
+        },
+        {
+          "reason": "Not as described",
+          "count": 10
+        },
+        {
+          "reason": "Changed mind",
+          "count": 33
+        },
+        {
+          "reason": "Other",
+          "count": 25
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 45
+        },
+        {
+          "returnType": "exchange",
+          "count": 106
+        },
+        {
+          "returnType": "refund",
+          "count": 33
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492024629,
+    "title": "Pummys™ - Belt - Grau / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 40/41",
+    "inventory_quantity": 74,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 49
+        },
+        {
+          "reason": "Wrong size",
+          "count": 1
+        },
+        {
+          "reason": "Wrong color",
+          "count": 12
+        },
+        {
+          "reason": "Not as described",
+          "count": 12
+        },
+        {
+          "reason": "Changed mind",
+          "count": 3
+        },
+        {
+          "reason": "Other",
+          "count": 5
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 52
+        },
+        {
+          "returnType": "refund",
+          "count": 30
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492155701,
+    "title": "Pummys™ - Belt - Khaki / 38/39",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 38/39",
+    "inventory_quantity": 22,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 6
+        },
+        {
+          "reason": "Wrong size",
+          "count": 43
+        },
+        {
+          "reason": "Wrong color",
+          "count": 18
+        },
+        {
+          "reason": "Not as described",
+          "count": 17
+        },
+        {
+          "reason": "Changed mind",
+          "count": 8
+        },
+        {
+          "reason": "Other",
+          "count": 15
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 32
+        },
+        {
+          "returnType": "refund",
+          "count": 75
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963449688373,
+    "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece - Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "price": "34.99",
+    "product_id": 9077968011573,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+    "variant_title": "Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "inventory_quantity": 3282,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 50
+        },
+        {
+          "reason": "Wrong size",
+          "count": 37
+        },
+        {
+          "reason": "Wrong color",
+          "count": 23
+        },
+        {
+          "reason": "Not as described",
+          "count": 22
+        },
+        {
+          "reason": "Changed mind",
+          "count": 44
+        },
+        {
+          "reason": "Other",
+          "count": 49
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 181
+        },
+        {
+          "returnType": "refund",
+          "count": 44
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504509237,
+    "title": "Pummys™ - COZY - Rosa / 37/38",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 37/38",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 40
+        },
+        {
+          "reason": "Wrong size",
+          "count": 5
+        },
+        {
+          "reason": "Wrong color",
+          "count": 44
+        },
+        {
+          "reason": "Not as described",
+          "count": 25
+        },
+        {
+          "reason": "Changed mind",
+          "count": 12
+        },
+        {
+          "reason": "Other",
+          "count": 28
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 40
+        },
+        {
+          "returnType": "return",
+          "count": 77
+        },
+        {
+          "returnType": "exchange",
+          "count": 37
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504640309,
+    "title": "Pummys™ - COZY - Rosa / 44/45",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 44/45",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 21
+        },
+        {
+          "reason": "Wrong size",
+          "count": 13
+        },
+        {
+          "reason": "Wrong color",
+          "count": 26
+        },
+        {
+          "reason": "Not as described",
+          "count": 44
+        },
+        {
+          "reason": "Changed mind",
+          "count": 22
+        },
+        {
+          "reason": "Other",
+          "count": 12
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 33
+        },
+        {
+          "returnType": "refund",
+          "count": 61
+        },
+        {
+          "returnType": "exchange",
+          "count": 44
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963457388853,
+    "title": "Gefütterte Thermo-Leggings - Schwarz / XS",
+    "price": "59.99",
+    "product_id": 9077972107573,
+    "product_title": "Gefütterte Thermo-Leggings",
+    "variant_title": "Schwarz / XS",
+    "inventory_quantity": 722,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 18
+        },
+        {
+          "reason": "Wrong size",
+          "count": 5
+        },
+        {
+          "reason": "Wrong color",
+          "count": 33
+        },
+        {
+          "reason": "Not as described",
+          "count": 37
+        },
+        {
+          "reason": "Changed mind",
+          "count": 32
+        },
+        {
+          "reason": "Other",
+          "count": 13
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 36
+        },
+        {
+          "returnType": "return",
+          "count": 70
+        },
+        {
+          "returnType": "refund",
+          "count": 32
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963449622837,
+    "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece - Schwarz / XS/S / Extra warm (0 bis -10°C)",
+    "price": "34.99",
+    "product_id": 9077968011573,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+    "variant_title": "Schwarz / XS/S / Extra warm (0 bis -10°C)",
+    "inventory_quantity": 3260,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 12
+        },
+        {
+          "reason": "Wrong size",
+          "count": 3
+        },
+        {
+          "reason": "Wrong color",
+          "count": 41
+        },
+        {
+          "reason": "Not as described",
+          "count": 18
+        },
+        {
+          "reason": "Changed mind",
+          "count": 46
+        },
+        {
+          "reason": "Other",
+          "count": 32
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 134
+        },
+        {
+          "returnType": "return",
+          "count": 18
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963457454389,
+    "title": "Gefütterte Thermo-Leggings - Schwarz / M",
+    "price": "59.99",
+    "product_id": 9077972107573,
+    "product_title": "Gefütterte Thermo-Leggings",
+    "variant_title": "Schwarz / M",
+    "inventory_quantity": 21,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 46
+        },
+        {
+          "reason": "Wrong size",
+          "count": 17
+        },
+        {
+          "reason": "Wrong color",
+          "count": 8
+        },
+        {
+          "reason": "Not as described",
+          "count": 43
+        },
+        {
+          "reason": "Changed mind",
+          "count": 7
+        },
+        {
+          "reason": "Other",
+          "count": 43
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 78
+        },
+        {
+          "returnType": "return",
+          "count": 86
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504673077,
+    "title": "Pummys™ - COZY - Grau / 37/38",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 37/38",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 22
+        },
+        {
+          "reason": "Wrong size",
+          "count": 38
+        },
+        {
+          "reason": "Wrong color",
+          "count": 38
+        },
+        {
+          "reason": "Not as described",
+          "count": 14
+        },
+        {
+          "reason": "Changed mind",
+          "count": 15
+        },
+        {
+          "reason": "Other",
+          "count": 32
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 22
+        },
+        {
+          "returnType": "refund",
+          "count": 84
+        },
+        {
+          "returnType": "exchange",
+          "count": 53
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491991861,
+    "title": "Pummys™ - Belt - Grau / 38/39",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 38/39",
+    "inventory_quantity": 139,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 5
+        },
+        {
+          "reason": "Wrong size",
+          "count": 46
+        },
+        {
+          "reason": "Wrong color",
+          "count": 38
+        },
+        {
+          "reason": "Not as described",
+          "count": 37
+        },
+        {
+          "reason": "Changed mind",
+          "count": 31
+        },
+        {
+          "reason": "Other",
+          "count": 29
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 111
+        },
+        {
+          "returnType": "return",
+          "count": 75
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504673077,
+    "title": "Pummys™ - COZY - Grau / 37/38",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 37/38",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 36
+        },
+        {
+          "reason": "Wrong size",
+          "count": 18
+        },
+        {
+          "reason": "Wrong color",
+          "count": 9
+        },
+        {
+          "reason": "Not as described",
+          "count": 15
+        },
+        {
+          "reason": "Changed mind",
+          "count": 42
+        },
+        {
+          "reason": "Other",
+          "count": 15
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 36
+        },
+        {
+          "returnType": "refund",
+          "count": 69
+        },
+        {
+          "returnType": "exchange",
+          "count": 30
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963452834101,
+    "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Jahressale - Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "price": "24.99",
+    "product_id": 9077969289525,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Jahressale",
+    "variant_title": "Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "inventory_quantity": 3293,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 49
+        },
+        {
+          "reason": "Wrong size",
+          "count": 38
+        },
+        {
+          "reason": "Wrong color",
+          "count": 16
+        },
+        {
+          "reason": "Not as described",
+          "count": 45
+        },
+        {
+          "reason": "Changed mind",
+          "count": 48
+        },
+        {
+          "reason": "Other",
+          "count": 30
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 49
+        },
+        {
+          "returnType": "return",
+          "count": 131
+        },
+        {
+          "returnType": "exchange",
+          "count": 46
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504771381,
+    "title": "Pummys™ - COZY - Grau / 42/43",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 99,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 8
+        },
+        {
+          "reason": "Wrong size",
+          "count": 28
+        },
+        {
+          "reason": "Wrong color",
+          "count": 1
+        },
+        {
+          "reason": "Not as described",
+          "count": 36
+        },
+        {
+          "reason": "Changed mind",
+          "count": 42
+        },
+        {
+          "reason": "Other",
+          "count": 14
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 44
+        },
+        {
+          "returnType": "refund",
+          "count": 42
+        },
+        {
+          "returnType": "return",
+          "count": 43
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492155701,
+    "title": "Pummys™ - Belt - Khaki / 38/39",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 38/39",
+    "inventory_quantity": 22,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 9
+        },
+        {
+          "reason": "Wrong size",
+          "count": 5
+        },
+        {
+          "reason": "Wrong color",
+          "count": 46
+        },
+        {
+          "reason": "Not as described",
+          "count": 17
+        },
+        {
+          "reason": "Changed mind",
+          "count": 42
+        },
+        {
+          "reason": "Other",
+          "count": 49
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 9
+        },
+        {
+          "returnType": "return",
+          "count": 5
+        },
+        {
+          "returnType": "refund",
+          "count": 154
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492188469,
+    "title": "Pummys™ - Belt - Khaki / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 40/41",
+    "inventory_quantity": 44,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 3
+        },
+        {
+          "reason": "Wrong size",
+          "count": 18
+        },
+        {
+          "reason": "Wrong color",
+          "count": 49
+        },
+        {
+          "reason": "Not as described",
+          "count": 19
+        },
+        {
+          "reason": "Changed mind",
+          "count": 46
+        },
+        {
+          "reason": "Other",
+          "count": 13
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 81
+        },
+        {
+          "returnType": "refund",
+          "count": 18
+        },
+        {
+          "returnType": "return",
+          "count": 49
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491631413,
+    "title": "Pummys™ - Belt - Schwarz / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 36/37",
+    "inventory_quantity": 19,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 1
+        },
+        {
+          "reason": "Wrong size",
+          "count": 26
+        },
+        {
+          "reason": "Wrong color",
+          "count": 4
+        },
+        {
+          "reason": "Not as described",
+          "count": 43
+        },
+        {
+          "reason": "Changed mind",
+          "count": 13
+        },
+        {
+          "reason": "Other",
+          "count": 29
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 14
+        },
+        {
+          "returnType": "return",
+          "count": 102
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491893557,
+    "title": "Pummys™ - Belt - Beige / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Beige / 42/43",
+    "inventory_quantity": 151,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 20
+        },
+        {
+          "reason": "Wrong size",
+          "count": 16
+        },
+        {
+          "reason": "Wrong color",
+          "count": 24
+        },
+        {
+          "reason": "Not as described",
+          "count": 6
+        },
+        {
+          "reason": "Changed mind",
+          "count": 41
+        },
+        {
+          "reason": "Other",
+          "count": 28
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 77
+        },
+        {
+          "returnType": "refund",
+          "count": 30
+        },
+        {
+          "returnType": "exchange",
+          "count": 28
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491303733,
+    "title": "Pummys™ - Belt - Rosa / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Rosa / 36/37",
+    "inventory_quantity": 44,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 27
+        },
+        {
+          "reason": "Wrong size",
+          "count": 5
+        },
+        {
+          "reason": "Wrong color",
+          "count": 15
+        },
+        {
+          "reason": "Not as described",
+          "count": 43
+        },
+        {
+          "reason": "Changed mind",
+          "count": 5
+        },
+        {
+          "reason": "Other",
+          "count": 22
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 59
+        },
+        {
+          "returnType": "exchange",
+          "count": 58
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491959093,
+    "title": "Pummys™ - Belt - Grau / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 36/37",
+    "inventory_quantity": 26,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 41
+        },
+        {
+          "reason": "Wrong size",
+          "count": 26
+        },
+        {
+          "reason": "Wrong color",
+          "count": 6
+        },
+        {
+          "reason": "Not as described",
+          "count": 28
+        },
+        {
+          "reason": "Changed mind",
+          "count": 6
+        },
+        {
+          "reason": "Other",
+          "count": 29
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 82
+        },
+        {
+          "returnType": "return",
+          "count": 26
+        },
+        {
+          "returnType": "refund",
+          "count": 28
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491729717,
+    "title": "Pummys™ - Belt - Schwarz / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 42/43",
+    "inventory_quantity": 3,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 9
+        },
+        {
+          "reason": "Wrong size",
+          "count": 45
+        },
+        {
+          "reason": "Wrong color",
+          "count": 27
+        },
+        {
+          "reason": "Not as described",
+          "count": 26
+        },
+        {
+          "reason": "Changed mind",
+          "count": 35
+        },
+        {
+          "reason": "Other",
+          "count": 46
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 54
+        },
+        {
+          "returnType": "exchange",
+          "count": 134
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491959093,
+    "title": "Pummys™ - Belt - Grau / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 36/37",
+    "inventory_quantity": 26,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 49
+        },
+        {
+          "reason": "Wrong size",
+          "count": 2
+        },
+        {
+          "reason": "Wrong color",
+          "count": 12
+        },
+        {
+          "reason": "Not as described",
+          "count": 15
+        },
+        {
+          "reason": "Changed mind",
+          "count": 15
+        },
+        {
+          "reason": "Other",
+          "count": 46
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 112
+        },
+        {
+          "returnType": "exchange",
+          "count": 12
+        },
+        {
+          "returnType": "refund",
+          "count": 15
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491434805,
+    "title": "Pummys™ - Belt - Rosa / 44/45",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Rosa / 44/45",
+    "inventory_quantity": 25,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 21
+        },
+        {
+          "reason": "Wrong size",
+          "count": 33
+        },
+        {
+          "reason": "Wrong color",
+          "count": 26
+        },
+        {
+          "reason": "Not as described",
+          "count": 37
+        },
+        {
+          "reason": "Changed mind",
+          "count": 45
+        },
+        {
+          "reason": "Other",
+          "count": 24
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 92
+        },
+        {
+          "returnType": "refund",
+          "count": 57
+        },
+        {
+          "returnType": "return",
+          "count": 37
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491729717,
+    "title": "Pummys™ - Belt - Schwarz / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 42/43",
+    "inventory_quantity": 3,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 17
+        },
+        {
+          "reason": "Wrong size",
+          "count": 14
+        },
+        {
+          "reason": "Wrong color",
+          "count": 12
+        },
+        {
+          "reason": "Not as described",
+          "count": 41
+        },
+        {
+          "reason": "Changed mind",
+          "count": 36
+        },
+        {
+          "reason": "Other",
+          "count": 2
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 67
+        },
+        {
+          "returnType": "return",
+          "count": 14
+        },
+        {
+          "returnType": "exchange",
+          "count": 41
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491926325,
+    "title": "Pummys™ - Belt - Beige / 44/45",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Beige / 44/45",
+    "inventory_quantity": 23,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 29
+        },
+        {
+          "reason": "Wrong size",
+          "count": 50
+        },
+        {
+          "reason": "Wrong color",
+          "count": 5
+        },
+        {
+          "reason": "Not as described",
+          "count": 2
+        },
+        {
+          "reason": "Changed mind",
+          "count": 2
+        },
+        {
+          "reason": "Other",
+          "count": 40
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 34
+        },
+        {
+          "returnType": "return",
+          "count": 52
+        },
+        {
+          "returnType": "exchange",
+          "count": 42
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491631413,
+    "title": "Pummys™ - Belt - Schwarz / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 36/37",
+    "inventory_quantity": 19,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 41
+        },
+        {
+          "reason": "Wrong size",
+          "count": 21
+        },
+        {
+          "reason": "Wrong color",
+          "count": 13
+        },
+        {
+          "reason": "Not as described",
+          "count": 45
+        },
+        {
+          "reason": "Changed mind",
+          "count": 46
+        },
+        {
+          "reason": "Other",
+          "count": 39
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 107
+        },
+        {
+          "returnType": "exchange",
+          "count": 59
+        },
+        {
+          "returnType": "return",
+          "count": 39
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491828021,
+    "title": "Pummys™ - Belt - Beige / 38/39",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Beige / 38/39",
+    "inventory_quantity": 299,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 43
+        },
+        {
+          "reason": "Wrong size",
+          "count": 6
+        },
+        {
+          "reason": "Wrong color",
+          "count": 7
+        },
+        {
+          "reason": "Not as described",
+          "count": 10
+        },
+        {
+          "reason": "Changed mind",
+          "count": 21
+        },
+        {
+          "reason": "Other",
+          "count": 11
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 85
+        },
+        {
+          "returnType": "return",
+          "count": 13
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491926325,
+    "title": "Pummys™ - Belt - Beige / 44/45",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Beige / 44/45",
+    "inventory_quantity": 23,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 50
+        },
+        {
+          "reason": "Wrong size",
+          "count": 46
+        },
+        {
+          "reason": "Wrong color",
+          "count": 31
+        },
+        {
+          "reason": "Not as described",
+          "count": 6
+        },
+        {
+          "reason": "Changed mind",
+          "count": 12
+        },
+        {
+          "reason": "Other",
+          "count": 7
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 94
+        },
+        {
+          "returnType": "exchange",
+          "count": 58
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963449688373,
+    "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece - Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "price": "34.99",
+    "product_id": 9077968011573,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+    "variant_title": "Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "inventory_quantity": 3282,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 8
+        },
+        {
+          "reason": "Wrong size",
+          "count": 40
+        },
+        {
+          "reason": "Wrong color",
+          "count": 1
+        },
+        {
+          "reason": "Not as described",
+          "count": 6
+        },
+        {
+          "reason": "Changed mind",
+          "count": 13
+        },
+        {
+          "reason": "Other",
+          "count": 16
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 55
+        },
+        {
+          "returnType": "exchange",
+          "count": 13
+        },
+        {
+          "returnType": "return",
+          "count": 16
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504640309,
+    "title": "Pummys™ - COZY - Rosa / 44/45",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 44/45",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 19
+        },
+        {
+          "reason": "Wrong size",
+          "count": 42
+        },
+        {
+          "reason": "Wrong color",
+          "count": 20
+        },
+        {
+          "reason": "Not as described",
+          "count": 47
+        },
+        {
+          "reason": "Changed mind",
+          "count": 36
+        },
+        {
+          "reason": "Other",
+          "count": 28
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 122
+        },
+        {
+          "returnType": "refund",
+          "count": 70
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491631413,
+    "title": "Pummys™ - Belt - Schwarz / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 36/37",
+    "inventory_quantity": 19,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 49
+        },
+        {
+          "reason": "Wrong size",
+          "count": 20
+        },
+        {
+          "reason": "Wrong color",
+          "count": 21
+        },
+        {
+          "reason": "Not as described",
+          "count": 10
+        },
+        {
+          "reason": "Changed mind",
+          "count": 27
+        },
+        {
+          "reason": "Other",
+          "count": 33
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 82
+        },
+        {
+          "returnType": "return",
+          "count": 57
+        },
+        {
+          "returnType": "refund",
+          "count": 21
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492057397,
+    "title": "Pummys™ - Belt - Grau / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 61,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 27
+        },
+        {
+          "reason": "Wrong size",
+          "count": 12
+        },
+        {
+          "reason": "Wrong color",
+          "count": 1
+        },
+        {
+          "reason": "Not as described",
+          "count": 36
+        },
+        {
+          "reason": "Changed mind",
+          "count": 3
+        },
+        {
+          "reason": "Other",
+          "count": 44
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 74
+        },
+        {
+          "returnType": "exchange",
+          "count": 13
+        },
+        {
+          "returnType": "return",
+          "count": 36
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504574773,
+    "title": "Pummys™ - COZY - Rosa / 40/41",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 40/41",
+    "inventory_quantity": 99,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 30
+        },
+        {
+          "reason": "Wrong size",
+          "count": 13
+        },
+        {
+          "reason": "Wrong color",
+          "count": 10
+        },
+        {
+          "reason": "Not as described",
+          "count": 29
+        },
+        {
+          "reason": "Changed mind",
+          "count": 22
+        },
+        {
+          "reason": "Other",
+          "count": 1
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 59
+        },
+        {
+          "returnType": "exchange",
+          "count": 23
+        },
+        {
+          "returnType": "refund",
+          "count": 23
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963449688373,
+    "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece - Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "price": "34.99",
+    "product_id": 9077968011573,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+    "variant_title": "Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "inventory_quantity": 3282,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 48
+        },
+        {
+          "reason": "Wrong size",
+          "count": 8
+        },
+        {
+          "reason": "Wrong color",
+          "count": 41
+        },
+        {
+          "reason": "Not as described",
+          "count": 6
+        },
+        {
+          "reason": "Changed mind",
+          "count": 50
+        },
+        {
+          "reason": "Other",
+          "count": 49
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 147
+        },
+        {
+          "returnType": "exchange",
+          "count": 14
+        },
+        {
+          "returnType": "return",
+          "count": 41
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504607541,
+    "title": "Pummys™ - COZY - Rosa / 42/43",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 42/43",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 28
+        },
+        {
+          "reason": "Wrong size",
+          "count": 4
+        },
+        {
+          "reason": "Wrong color",
+          "count": 22
+        },
+        {
+          "reason": "Not as described",
+          "count": 35
+        },
+        {
+          "reason": "Changed mind",
+          "count": 30
+        },
+        {
+          "reason": "Other",
+          "count": 13
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 75
+        },
+        {
+          "returnType": "exchange",
+          "count": 57
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504771381,
+    "title": "Pummys™ - COZY - Grau / 42/43",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 99,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 32
+        },
+        {
+          "reason": "Wrong size",
+          "count": 46
+        },
+        {
+          "reason": "Wrong color",
+          "count": 6
+        },
+        {
+          "reason": "Not as described",
+          "count": 35
+        },
+        {
+          "reason": "Changed mind",
+          "count": 9
+        },
+        {
+          "reason": "Other",
+          "count": 36
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 84
+        },
+        {
+          "returnType": "refund",
+          "count": 44
+        },
+        {
+          "returnType": "return",
+          "count": 36
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504509237,
+    "title": "Pummys™ - COZY - Rosa / 37/38",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 37/38",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 35
+        },
+        {
+          "reason": "Wrong size",
+          "count": 41
+        },
+        {
+          "reason": "Wrong color",
+          "count": 5
+        },
+        {
+          "reason": "Not as described",
+          "count": 50
+        },
+        {
+          "reason": "Changed mind",
+          "count": 30
+        },
+        {
+          "reason": "Other",
+          "count": 5
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 40
+        },
+        {
+          "returnType": "refund",
+          "count": 126
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491959093,
+    "title": "Pummys™ - Belt - Grau / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 36/37",
+    "inventory_quantity": 26,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 27
+        },
+        {
+          "reason": "Wrong size",
+          "count": 46
+        },
+        {
+          "reason": "Wrong color",
+          "count": 38
+        },
+        {
+          "reason": "Not as described",
+          "count": 34
+        },
+        {
+          "reason": "Changed mind",
+          "count": 23
+        },
+        {
+          "reason": "Other",
+          "count": 36
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 99
+        },
+        {
+          "returnType": "return",
+          "count": 105
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491369269,
+    "title": "Pummys™ - Belt - Rosa / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Rosa / 40/41",
+    "inventory_quantity": 127,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 34
+        },
+        {
+          "reason": "Wrong size",
+          "count": 1
+        },
+        {
+          "reason": "Wrong color",
+          "count": 50
+        },
+        {
+          "reason": "Not as described",
+          "count": 45
+        },
+        {
+          "reason": "Changed mind",
+          "count": 15
+        },
+        {
+          "reason": "Other",
+          "count": 25
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 34
+        },
+        {
+          "returnType": "return",
+          "count": 41
+        },
+        {
+          "returnType": "exchange",
+          "count": 95
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491631413,
+    "title": "Pummys™ - Belt - Schwarz / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 36/37",
+    "inventory_quantity": 19,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 26
+        },
+        {
+          "reason": "Wrong size",
+          "count": 18
+        },
+        {
+          "reason": "Wrong color",
+          "count": 17
+        },
+        {
+          "reason": "Not as described",
+          "count": 7
+        },
+        {
+          "reason": "Changed mind",
+          "count": 18
+        },
+        {
+          "reason": "Other",
+          "count": 39
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 61
+        },
+        {
+          "returnType": "refund",
+          "count": 25
+        },
+        {
+          "returnType": "exchange",
+          "count": 39
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504771381,
+    "title": "Pummys™ - COZY - Grau / 42/43",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 99,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 24
+        },
+        {
+          "reason": "Wrong size",
+          "count": 20
+        },
+        {
+          "reason": "Wrong color",
+          "count": 27
+        },
+        {
+          "reason": "Not as described",
+          "count": 49
+        },
+        {
+          "reason": "Changed mind",
+          "count": 7
+        },
+        {
+          "reason": "Other",
+          "count": 48
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 78
+        },
+        {
+          "returnType": "return",
+          "count": 49
+        },
+        {
+          "returnType": "exchange",
+          "count": 48
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492057397,
+    "title": "Pummys™ - Belt - Grau / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 61,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 36
+        },
+        {
+          "reason": "Wrong size",
+          "count": 7
+        },
+        {
+          "reason": "Wrong color",
+          "count": 10
+        },
+        {
+          "reason": "Not as described",
+          "count": 26
+        },
+        {
+          "reason": "Changed mind",
+          "count": 10
+        },
+        {
+          "reason": "Other",
+          "count": 27
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 96
+        },
+        {
+          "returnType": "refund",
+          "count": 20
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963457454389,
+    "title": "Gefütterte Thermo-Leggings - Schwarz / M",
+    "price": "59.99",
+    "product_id": 9077972107573,
+    "product_title": "Gefütterte Thermo-Leggings",
+    "variant_title": "Schwarz / M",
+    "inventory_quantity": 21,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 4
+        },
+        {
+          "reason": "Wrong size",
+          "count": 49
+        },
+        {
+          "reason": "Wrong color",
+          "count": 21
+        },
+        {
+          "reason": "Not as described",
+          "count": 48
+        },
+        {
+          "reason": "Changed mind",
+          "count": 46
+        },
+        {
+          "reason": "Other",
+          "count": 19
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 73
+        },
+        {
+          "returnType": "refund",
+          "count": 49
+        },
+        {
+          "returnType": "return",
+          "count": 65
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491631413,
+    "title": "Pummys™ - Belt - Schwarz / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 36/37",
+    "inventory_quantity": 19,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 46
+        },
+        {
+          "reason": "Wrong size",
+          "count": 25
+        },
+        {
+          "reason": "Wrong color",
+          "count": 28
+        },
+        {
+          "reason": "Not as described",
+          "count": 35
+        },
+        {
+          "reason": "Changed mind",
+          "count": 6
+        },
+        {
+          "reason": "Other",
+          "count": 26
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 112
+        },
+        {
+          "returnType": "exchange",
+          "count": 28
+        },
+        {
+          "returnType": "refund",
+          "count": 26
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491696949,
+    "title": "Pummys™ - Belt - Schwarz / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 40/41",
+    "inventory_quantity": 57,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 35
+        },
+        {
+          "reason": "Wrong size",
+          "count": 28
+        },
+        {
+          "reason": "Wrong color",
+          "count": 41
+        },
+        {
+          "reason": "Not as described",
+          "count": 24
+        },
+        {
+          "reason": "Changed mind",
+          "count": 25
+        },
+        {
+          "reason": "Other",
+          "count": 39
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 35
+        },
+        {
+          "returnType": "exchange",
+          "count": 77
+        },
+        {
+          "returnType": "return",
+          "count": 80
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963457388853,
+    "title": "Gefütterte Thermo-Leggings - Schwarz / XS",
+    "price": "59.99",
+    "product_id": 9077972107573,
+    "product_title": "Gefütterte Thermo-Leggings",
+    "variant_title": "Schwarz / XS",
+    "inventory_quantity": 722,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 19
+        },
+        {
+          "reason": "Wrong size",
+          "count": 16
+        },
+        {
+          "reason": "Wrong color",
+          "count": 36
+        },
+        {
+          "reason": "Not as described",
+          "count": 31
+        },
+        {
+          "reason": "Changed mind",
+          "count": 48
+        },
+        {
+          "reason": "Other",
+          "count": 45
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 100
+        },
+        {
+          "returnType": "refund",
+          "count": 64
+        },
+        {
+          "returnType": "return",
+          "count": 31
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492024629,
+    "title": "Pummys™ - Belt - Grau / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 40/41",
+    "inventory_quantity": 74,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 44
+        },
+        {
+          "reason": "Wrong size",
+          "count": 43
+        },
+        {
+          "reason": "Wrong color",
+          "count": 13
+        },
+        {
+          "reason": "Not as described",
+          "count": 38
+        },
+        {
+          "reason": "Changed mind",
+          "count": 27
+        },
+        {
+          "reason": "Other",
+          "count": 32
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 114
+        },
+        {
+          "returnType": "exchange",
+          "count": 83
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492286773,
+    "title": "Pummys™ - Belt - Khaki / 44/45",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Khaki / 44/45",
+    "inventory_quantity": 8,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 49
+        },
+        {
+          "reason": "Wrong size",
+          "count": 5
+        },
+        {
+          "reason": "Wrong color",
+          "count": 38
+        },
+        {
+          "reason": "Not as described",
+          "count": 9
+        },
+        {
+          "reason": "Changed mind",
+          "count": 16
+        },
+        {
+          "reason": "Other",
+          "count": 48
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 92
+        },
+        {
+          "returnType": "exchange",
+          "count": 9
+        },
+        {
+          "returnType": "refund",
+          "count": 64
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491795253,
+    "title": "Pummys™ - Belt - Beige / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Beige / 36/37",
+    "inventory_quantity": 101,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 29
+        },
+        {
+          "reason": "Wrong size",
+          "count": 31
+        },
+        {
+          "reason": "Wrong color",
+          "count": 38
+        },
+        {
+          "reason": "Not as described",
+          "count": 7
+        },
+        {
+          "reason": "Changed mind",
+          "count": 23
+        },
+        {
+          "reason": "Other",
+          "count": 34
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 90
+        },
+        {
+          "returnType": "refund",
+          "count": 38
+        },
+        {
+          "returnType": "exchange",
+          "count": 34
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491729717,
+    "title": "Pummys™ - Belt - Schwarz / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 42/43",
+    "inventory_quantity": 3,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 13
+        },
+        {
+          "reason": "Wrong size",
+          "count": 13
+        },
+        {
+          "reason": "Wrong color",
+          "count": 10
+        },
+        {
+          "reason": "Not as described",
+          "count": 30
+        },
+        {
+          "reason": "Changed mind",
+          "count": 26
+        },
+        {
+          "reason": "Other",
+          "count": 0
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 62
+        },
+        {
+          "returnType": "return",
+          "count": 30
+        },
+        {
+          "returnType": "refund",
+          "count": 0
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504771381,
+    "title": "Pummys™ - COZY - Grau / 42/43",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 42/43",
+    "inventory_quantity": 99,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 22
+        },
+        {
+          "reason": "Wrong size",
+          "count": 5
+        },
+        {
+          "reason": "Wrong color",
+          "count": 17
+        },
+        {
+          "reason": "Not as described",
+          "count": 9
+        },
+        {
+          "reason": "Changed mind",
+          "count": 43
+        },
+        {
+          "reason": "Other",
+          "count": 43
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 22
+        },
+        {
+          "returnType": "return",
+          "count": 5
+        },
+        {
+          "returnType": "refund",
+          "count": 112
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491926325,
+    "title": "Pummys™ - Belt - Beige / 44/45",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Beige / 44/45",
+    "inventory_quantity": 23,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 24
+        },
+        {
+          "reason": "Wrong size",
+          "count": 37
+        },
+        {
+          "reason": "Wrong color",
+          "count": 36
+        },
+        {
+          "reason": "Not as described",
+          "count": 29
+        },
+        {
+          "reason": "Changed mind",
+          "count": 10
+        },
+        {
+          "reason": "Other",
+          "count": 2
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 71
+        },
+        {
+          "returnType": "return",
+          "count": 65
+        },
+        {
+          "returnType": "refund",
+          "count": 2
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504640309,
+    "title": "Pummys™ - COZY - Rosa / 44/45",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Rosa / 44/45",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 27
+        },
+        {
+          "reason": "Wrong size",
+          "count": 15
+        },
+        {
+          "reason": "Wrong color",
+          "count": 14
+        },
+        {
+          "reason": "Not as described",
+          "count": 27
+        },
+        {
+          "reason": "Changed mind",
+          "count": 44
+        },
+        {
+          "reason": "Other",
+          "count": 35
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 121
+        },
+        {
+          "returnType": "return",
+          "count": 41
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491303733,
+    "title": "Pummys™ - Belt - Rosa / 36/37",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Rosa / 36/37",
+    "inventory_quantity": 44,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 42
+        },
+        {
+          "reason": "Wrong size",
+          "count": 28
+        },
+        {
+          "reason": "Wrong color",
+          "count": 45
+        },
+        {
+          "reason": "Not as described",
+          "count": 50
+        },
+        {
+          "reason": "Changed mind",
+          "count": 19
+        },
+        {
+          "reason": "Other",
+          "count": 6
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 61
+        },
+        {
+          "returnType": "return",
+          "count": 28
+        },
+        {
+          "returnType": "refund",
+          "count": 101
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963457454389,
+    "title": "Gefütterte Thermo-Leggings - Schwarz / M",
+    "price": "59.99",
+    "product_id": 9077972107573,
+    "product_title": "Gefütterte Thermo-Leggings",
+    "variant_title": "Schwarz / M",
+    "inventory_quantity": 21,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 47
+        },
+        {
+          "reason": "Wrong size",
+          "count": 34
+        },
+        {
+          "reason": "Wrong color",
+          "count": 29
+        },
+        {
+          "reason": "Not as described",
+          "count": 43
+        },
+        {
+          "reason": "Changed mind",
+          "count": 6
+        },
+        {
+          "reason": "Other",
+          "count": 50
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 110
+        },
+        {
+          "returnType": "refund",
+          "count": 93
+        },
+        {
+          "returnType": "exchange",
+          "count": 6
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963452834101,
+    "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Jahressale - Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "price": "24.99",
+    "product_id": 9077969289525,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Jahressale",
+    "variant_title": "Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "inventory_quantity": 3293,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 2
+        },
+        {
+          "reason": "Wrong size",
+          "count": 41
+        },
+        {
+          "reason": "Wrong color",
+          "count": 10
+        },
+        {
+          "reason": "Not as described",
+          "count": 38
+        },
+        {
+          "reason": "Changed mind",
+          "count": 24
+        },
+        {
+          "reason": "Other",
+          "count": 14
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 81
+        },
+        {
+          "returnType": "refund",
+          "count": 48
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963457388853,
+    "title": "Gefütterte Thermo-Leggings - Schwarz / XS",
+    "price": "59.99",
+    "product_id": 9077972107573,
+    "product_title": "Gefütterte Thermo-Leggings",
+    "variant_title": "Schwarz / XS",
+    "inventory_quantity": 722,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 47
+        },
+        {
+          "reason": "Wrong size",
+          "count": 15
+        },
+        {
+          "reason": "Wrong color",
+          "count": 10
+        },
+        {
+          "reason": "Not as described",
+          "count": 37
+        },
+        {
+          "reason": "Changed mind",
+          "count": 11
+        },
+        {
+          "reason": "Other",
+          "count": 35
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 84
+        },
+        {
+          "returnType": "refund",
+          "count": 71
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491991861,
+    "title": "Pummys™ - Belt - Grau / 38/39",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 38/39",
+    "inventory_quantity": 139,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 26
+        },
+        {
+          "reason": "Wrong size",
+          "count": 24
+        },
+        {
+          "reason": "Wrong color",
+          "count": 28
+        },
+        {
+          "reason": "Not as described",
+          "count": 5
+        },
+        {
+          "reason": "Changed mind",
+          "count": 23
+        },
+        {
+          "reason": "Other",
+          "count": 2
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 73
+        },
+        {
+          "returnType": "return",
+          "count": 33
+        },
+        {
+          "returnType": "exchange",
+          "count": 2
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963449622837,
+    "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece - Schwarz / XS/S / Extra warm (0 bis -10°C)",
+    "price": "34.99",
+    "product_id": 9077968011573,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+    "variant_title": "Schwarz / XS/S / Extra warm (0 bis -10°C)",
+    "inventory_quantity": 3260,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 1
+        },
+        {
+          "reason": "Wrong size",
+          "count": 28
+        },
+        {
+          "reason": "Wrong color",
+          "count": 45
+        },
+        {
+          "reason": "Not as described",
+          "count": 49
+        },
+        {
+          "reason": "Changed mind",
+          "count": 15
+        },
+        {
+          "reason": "Other",
+          "count": 26
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 27
+        },
+        {
+          "returnType": "return",
+          "count": 122
+        },
+        {
+          "returnType": "exchange",
+          "count": 15
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963504705845,
+    "title": "Pummys™ - COZY - Grau / 39/40",
+    "price": "49.99",
+    "product_id": 9077993111861,
+    "product_title": "Pummys™ - COZY",
+    "variant_title": "Grau / 39/40",
+    "inventory_quantity": 100,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 29
+        },
+        {
+          "reason": "Wrong size",
+          "count": 49
+        },
+        {
+          "reason": "Wrong color",
+          "count": 44
+        },
+        {
+          "reason": "Not as described",
+          "count": 2
+        },
+        {
+          "reason": "Changed mind",
+          "count": 38
+        },
+        {
+          "reason": "Other",
+          "count": 45
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 118
+        },
+        {
+          "returnType": "exchange",
+          "count": 51
+        },
+        {
+          "returnType": "return",
+          "count": 38
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963491729717,
+    "title": "Pummys™ - Belt - Schwarz / 42/43",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Schwarz / 42/43",
+    "inventory_quantity": 3,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 49
+        },
+        {
+          "reason": "Wrong size",
+          "count": 32
+        },
+        {
+          "reason": "Wrong color",
+          "count": 0
+        },
+        {
+          "reason": "Not as described",
+          "count": 15
+        },
+        {
+          "reason": "Changed mind",
+          "count": 30
+        },
+        {
+          "reason": "Other",
+          "count": 11
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 79
+        },
+        {
+          "returnType": "return",
+          "count": 43
+        },
+        {
+          "returnType": "refund",
+          "count": 15
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963449688373,
+    "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece - Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "price": "34.99",
+    "product_id": 9077968011573,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+    "variant_title": "Schwarz / M/L / Extra warm (0 bis -10°C)",
+    "inventory_quantity": 3282,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 15
+        },
+        {
+          "reason": "Wrong size",
+          "count": 48
+        },
+        {
+          "reason": "Wrong color",
+          "count": 14
+        },
+        {
+          "reason": "Not as described",
+          "count": 12
+        },
+        {
+          "reason": "Changed mind",
+          "count": 19
+        },
+        {
+          "reason": "Other",
+          "count": 1
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 82
+        },
+        {
+          "returnType": "exchange",
+          "count": 15
+        },
+        {
+          "returnType": "return",
+          "count": 12
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963457388853,
+    "title": "Gefütterte Thermo-Leggings - Schwarz / XS",
+    "price": "59.99",
+    "product_id": 9077972107573,
+    "product_title": "Gefütterte Thermo-Leggings",
+    "variant_title": "Schwarz / XS",
+    "inventory_quantity": 722,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 3
+        },
+        {
+          "reason": "Wrong size",
+          "count": 17
+        },
+        {
+          "reason": "Wrong color",
+          "count": 1
+        },
+        {
+          "reason": "Not as described",
+          "count": 19
+        },
+        {
+          "reason": "Changed mind",
+          "count": 33
+        },
+        {
+          "reason": "Other",
+          "count": 28
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 73
+        },
+        {
+          "returnType": "refund",
+          "count": 28
+        }
+      ]
+    }
+  },
+  {
+    "variant_id": 47963492024629,
+    "title": "Pummys™ - Belt - Grau / 40/41",
+    "price": "39.99",
+    "product_id": 9077988786485,
+    "product_title": "Pummys™ - Belt",
+    "variant_title": "Grau / 40/41",
+    "inventory_quantity": 74,
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 22
+        },
+        {
+          "reason": "Wrong size",
+          "count": 34
+        },
+        {
+          "reason": "Wrong color",
+          "count": 18
+        },
+        {
+          "reason": "Not as described",
+          "count": 5
+        },
+        {
+          "reason": "Changed mind",
+          "count": 20
+        },
+        {
+          "reason": "Other",
+          "count": 38
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 56
+        },
+        {
+          "returnType": "refund",
+          "count": 81
+        }
+      ]
+    }
+  }
+]

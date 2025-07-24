@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* table */
+  .tbl-td {
+    @apply block h-full w-full;
+  }
+  .drt-td {
+    @apply block h-full w-full px-3 py-2;
+  }
+
+  /* dispatch-center/id */
+  .dc-td {
+    @apply px-3;
+  }
+
+  .btn-bg-hover {
+    @apply hover:bg-red-500;
+  }
+  /* cliks */
+  .click {
+    @apply cursor-pointer duration-150 active:scale-[0.98];
+  }
+  /* buttons */
+  .btn {
+    @apply click rounded-md px-4 py-2;
+  }
+  .btn-sm {
+    @apply px-3 py-1;
+  }
+  .btn-primary {
+    @apply bg-accent hover:bg-accent-dark;
+  }
+  .btn-default {
+    @apply border;
+  }
+  .btn-secondary {
+    @apply bg-secondary hover:bg-gray-300;
+  }
+  .btn-custom {
+    @apply bg-accent hover:bg-accent-dark;
+  }
+  .label {
+    @apply mb-2 text-xs font-medium leading-4 text-gray-700;
+  }
+
+  /* input */
+  .input {
+    @apply w-full items-center rounded-md border border-gray-300 px-3 py-2 text-base  leading-4 text-gray-700 focus:outline-none;
+  }
+  .input-login {
+    @apply w-full items-center rounded-md border border-gray-300 bg-slate-50 px-3 py-2 text-base  leading-4 text-gray-700 focus:outline-none;
+  }
+
+  /* notification */
+  .toast-accent {
+    @apply rounded bg-accent px-5 py-2.5 font-semibold;
+  }
+  .toast-success {
+    @apply rounded bg-accent px-5 py-2.5 font-semibold;
+  }
+  .toast-error {
+    @apply rounded bg-red-500 px-5 py-2.5 font-semibold;
+  }
+
+  /* containers */
+  .returns-container {
+    @apply mx-auto min-w-[1200px] max-w-[1900px];
+  }
+  .search-container {
+    @apply mx-auto min-w-[800px] max-w-[1900px];
+  }
+  .users-container {
+    @apply mx-auto min-w-[1000px] max-w-[1600px];
+  }
+  .homepage-container {
+    @apply mx-auto min-w-[1200px] max-w-[1900px];
+  }
+  .xentral-container {
+    @apply mx-auto min-w-[1200px] max-w-[1900px];
+  }
+  .order-page-container {
+    @apply mx-auto min-w-[700px] max-w-[1400px];
+  }
+  .webhooks-page-container {
+    @apply mx-auto min-w-[700px] max-w-[1400px];
+  }
+
+  /* card/div */
+  .card {
+    @apply rounded-md border bg-white px-4 py-2 drop-shadow;
+  }
+
+  /* debuggers */
+  .dbg-red {
+    @apply border border-red-400;
+  }
+  .dbg-green {
+    @apply border border-green-400;
+  }
+
+  /* badges */
+  .badge {
+    @apply rounded-full p-4 py-1 text-xs font-medium;
+  }
+  .badge-neutral {
+    @apply w-max rounded-full bg-gray-200 px-4 py-1 text-xs font-medium leading-4 text-gray-700;
+  }
+}
+
+.modal-backdrop {
+  @apply bg-gray-200/75 backdrop-blur-sm;
+}
+.bg-modal {
+  @apply modal-backdrop;
+}

@@ -1,0 +1,13 @@
+@media (min-width: 640px) {
+  .customer-wrapper {
+    width: 440px;
+    height: 450px;
+    padding: 5px;
+  }
+  .customer-name,
+  .contact-information,
+  .customer-phone {
+    height: 100px;
+    border-bottom: 1px solid rgba(244, 247, 250, 1);
+  }
+}

@@ -1,0 +1,36 @@
+.upload-container {
+  /* width: 335px; */
+  /* padding: 55px; */
+  font-size: 13px;
+  font-weight: 700;
+  color: #999;
+  text-align: left;
+}
+.images-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.upload-text {
+  font-size: 15px;
+}
+.images-container {
+  margin-top: 8px;
+}
+.higher {
+  margin-top: 25px !important;
+}
+.upload-image {
+  width: 120px;
+
+  height: 70px;
+}
+@media (min-width: 768px) {
+  .images-wrapper {
+    width: 535px;
+    flex-direction: row;
+  }
+  .images-container {
+    margin-top: 90px;
+  }
+}

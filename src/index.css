@@ -1,0 +1,376 @@
+@import './components/organisms/Return/Return.css';
+@import './components/molecules/UploadField/Upload.css';
+@import './components/atoms/Searchbar/Searchbar.css';
+@import './components/atoms/Customer/Customer.css';
+/* @import './components/atoms/Comment/Comment.css'; */
+@import './components/organisms/Timeline/Timeline.css';
+@import './components/atoms/AddComment/AddComment.css';
+@import './components/atoms/CustomConnector/CustomConnector.css';
+@import './components/molecules/WarningModal/WarningModal.css';
+@import './components/molecules/ProductStatus/ProductStatus.css';
+@import './components/molecules/UploadImage/UploadImage.css';
+@import './components/molecules/StoreCreditModal/StoreCredit.module.css';
+@import './components/atoms/OrderStatus/OrderStatus.css';
+@import './components/atoms/Product/Product.css';
+@import './components/molecules/CustomModal/CustomModal.css';
+@import './components/molecules/TextField/TextField.css';
+@import './components/organisms/Exchange/Exchange.css';
+@import './components/atoms/FilterSearchBar/FilterSearchBar.css';
+@import './components/organisms/UserModal/UserModal.css';
+@import './components/molecules/OrdersTabContent/OrdersTabContent.css';
+
+:root {
+  font-family: 'Manrope', sans-serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+  font-size: 16px;
+
+  /* line-height: 1.5; */
+  font-weight: 400;
+  color: #000;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+input,
+textarea {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0;
+}
+
+.custom-table-cell {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.width-available {
+  width: -webkit-fill-available;
+}
+
+.height-available {
+  height: -webkit-fill-available;
+}
+
+.message {
+  width: 350px; /* Mobile-first: Applies to all screen sizes */
+  height: 80px; /* Mobile-first: Applies to all screen sizes */
+  font-size: 14px; /* Mobile-first: Applies to all screen sizes */
+  color: grey; /* Mobile-first: Applies to all screen sizes */
+  margin-right: 10px;
+}
+.return-message {
+  height: 80px;
+  font-size: 15px;
+  width: 350px;
+  margin-right: 20px;
+}
+.return-order-input,
+.return-email-input {
+  border: 1px solid grey;
+  width: 330px; /* Mobile-first: Applies to all screen sizes */
+  height: 40px;
+  padding: 5px;
+  /* height: 20px; Mobile-first: Applies to all screen sizes */
+  /* padding: 8px 16px; Mobile-first: Applies to all screen sizes */
+  /* border-radius: 10px; Mobile-first: Applies to all screen sizes */
+}
+
+input.return-order-input:focus,
+input.return-email-input:focus {
+  border: 1px solid #96b48d;
+  /* Mobile-first: Applies to all screen sizes */
+}
+
+.return-order-input::placeholder,
+.return-email-input::placeholder {
+  font-weight: 500;
+}
+
+.product-image {
+  width: 80px; /* Mobile-first: Applies to all screen sizes */
+  height: 80px; /* Mobile-first: Applies to all screen sizes */
+  /* background-color: #f2f2f2; */
+}
+
+.order-option {
+  background-color: #22b573;
+}
+.start-button {
+  background-color: #ffc55b;
+  height: 43px;
+  width: 330px;
+  /* color: #fff; */
+}
+.link-button {
+  height: 43px;
+  width: 330px;
+}
+.start-button:hover {
+  cursor: pointer;
+}
+.start-button.disabled {
+  cursor: default;
+  background-color: #ffeed4;
+}
+.nav-button {
+  background-color: #ffc55b;
+  width: 200px;
+  height: 35px;
+
+  font-weight: 700;
+}
+.nav-button.disabled {
+  background-color: rgba(255, 204, 102, 0.7);
+  color: grey;
+}
+.action-button {
+  background-color: #ffcc66;
+  width: 180px;
+  height: 43px;
+}
+.close-image-modal {
+  background-color: #ffcc66;
+}
+.stepper {
+  width: 335px;
+  margin-bottom: 10px;
+}
+
+.step-label {
+  background-color: #ffcc66;
+  height: 25px;
+  width: 25px;
+}
+.select-label {
+  margin-left: 8px !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  color: #999 !important;
+}
+
+.product-selected {
+  border: 1px solid #ffc55b;
+}
+
+.return-item-header {
+  margin-right: 25px;
+}
+
+.download-order-button {
+  height: 35px;
+  background-color: #ffc55b;
+  font-size: 15px;
+  width: 302px;
+}
+.download-label-button {
+  background-color: #ffc55b;
+  font-size: 15px;
+  height: 35px;
+  width: 324px;
+}
+.create-giftcard-button,
+.refund-order-button {
+  background-color: #ffcc66;
+  width: 200px;
+  height: 35px;
+  border-radius: 8px;
+}
+.sidebar {
+  width: 240px;
+}
+
+.tabs {
+  border-bottom: 1px solid rgba(244, 247, 250, 1);
+}
+
+.stats-label-wrapper {
+  border-top: 1px solid rgba(244, 247, 250, 1);
+  border-bottom: 1px solid rgba(244, 247, 250, 1);
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.rejected-item {
+  color: rgba(240, 78, 117, 1);
+  background-color: rgba(240, 78, 117, 0.1);
+}
+.contact-client {
+  background-color: #ffcc66;
+}
+
+.custom-modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media (min-width: 376px) {
+  .message {
+    width: 370px;
+    margin-right: 10px;
+  }
+
+  .return-message {
+    width: 370px;
+    margin-right: 10px;
+  }
+}
+.tag-input {
+  border: 2px solid rgba(244, 247, 250, 1);
+  width: 360px;
+  padding-left: 5px;
+  height: 36px;
+}
+.reject-reason-comment {
+  width: 100%;
+  border: 1px solid lightgray;
+}
+@media (min-width: 412px) {
+  .return-message {
+    margin-right: 20px;
+    width: 370px;
+  }
+  .message {
+    margin-right: 20px;
+  }
+}
+@media (min-width: 425px) {
+  .message {
+    width: 380px;
+    margin-right: 20px;
+  }
+  .return-message {
+    margin-right: 20px;
+  }
+}
+@media (min-width: 640px) {
+  .stepper {
+    width: 400px;
+  }
+  .return-wrapper {
+    width: 400px;
+  }
+  .message {
+    width: 400px;
+  }
+}
+
+.returned-product-images {
+  width: 750px;
+  height: 230px;
+}
+.next-button {
+  background-color: #ffc55b;
+  /* width: 91px; */
+  width: fit-content;
+  padding-left: 5px;
+  padding-right: 5px;
+  height: 25px;
+}
+.next-button.disabled {
+  color: black;
+  background-color: lightgray;
+}
+.next-submit-button {
+  width: 147px;
+}
+.bulk-refund-button {
+  background-color: #ffc55b;
+}
+.bulk-refund-button.disabled {
+  color: black;
+  background-color: lightgray;
+}
+@media (min-width: 768px) {
+  .return-layout {
+    height: 100vh; /* Overrides for screens wider than 768px */
+  }
+
+  .return-wrapper {
+    width: 537px; /* Overrides for screens wider than 768px */
+    margin-right: 384px;
+  }
+
+  .return-order-input,
+  .return-email-input {
+    width: 365px; /* Overrides for screens wider than 768px */ /* Overrides for screens wider than 768px */
+    /* padding: 8px 16px; Overrides for screens wider than 768px */
+  }
+
+  .message {
+    width: 537px; /* Overrides for screens wider than 768px */
+    height: 80px; /* Overrides for screens wider than 768px */
+    font-size: 14px; /* Overrides for screens wider than 768px */
+    margin-right: 384px;
+  }
+
+  .custom-feedback {
+    width: 535px; /* Overrides for screens wider than 768px */
+    height: 45px; /* Overrides for screens wider than 768px */
+  }
+  .stepper {
+    width: 340px; /* Overrides for screens wider than 768px */
+    margin-left: 5px; /* Overrides for screens wider than 768px */
+    margin-bottom: 10px; /* Overrides for screens wider than 768px */
+  }
+
+  .header-text {
+    width: 340px; /* Overrides for screens wider than 768px */
+  }
+
+  .variant-wrapper {
+    width: 550px;
+  }
+
+  .start-button {
+    width: 365px;
+  }
+
+  .return-message {
+    width: 520px;
+    margin-right: 384px;
+  }
+}
+
+.custom-header {
+  color: #999 !important;
+}
+
+.type-tag {
+  padding: 4px 8px;
+  border-radius: 8px;
+  background-color: #9ca3af;
+}
+
+/* For small screens (mobile) */
+.bg-sm-image {
+  background-image: url('/images/mobile-background.webp');
+}
+
+/* For larger screens (laptops/desktops) */
+.bg-image {
+  background-image: url('/images/background.webp');
+}
+
+/* Common styles */
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
+.toast-success {
+  background-color: #ffcc66;
+  padding: 10px 20px;
+  font-weight: 500;
+  border-radius: 3px;
+}

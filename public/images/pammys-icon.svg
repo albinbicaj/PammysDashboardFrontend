@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 180 180" style="enable-background:new 0 0 180 180;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{mask:url(#mask0_0_3_1_);}
+	.st2{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st3{mask:url(#mask1_0_3_1_);}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="1.2" width="180" height="177.5">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="1.2" width="180" height="177.5" id="mask0_0_3_1_">
+	<path class="st0" d="M0,1.2h180.7v177.5H0V1.2z"/>
+</mask>
+<g class="st1">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="0" y="1.2" width="180" height="177.5">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="0" y="1.2" width="180" height="177.5" id="mask1_0_3_1_">
+		<path class="st2" d="M121.5,110.8c-19,19.1-10.4,10.5-29.5,29.5l-1.3,1.2l-8.2,8.2c-0.1-11.9-4.7-23.8-13.6-32.7
+			C48,96,54.8,102.8,33.9,81.9l-0.4-0.4c10.3-1.2,20.7-5.7,28.6-13.6c20.9-20.9,14.2-14.1,35.1-35l0.6-0.6
+			c0.5,10,4.6,19.9,12.1,27.4c19.1,19,10.5,10.4,29.5,29.4l1.2,1.3l8.4,8.4C138.9,99.2,129,103.3,121.5,110.8 M177.7,108.6
+			c-7.2-6.4-16.3-9.6-25.6-9.9c13.4-17.8,11.4-43.9-4.8-60c-20.9-20.9-14.2-14.1-35.1-35c-0.7-0.7-1.4-1.4-2.4-2.4
+			c-0.9,0.9-1.6,1.6-2.3,2.3c-6.3,7.1-9.6,16.1-9.9,25.1l-0.3-0.3C81.3,14.1,56.2,15.1,41,30.4c-19,19-10.4,10.5-29.5,29.5l-1.3,1.2
+			L0,71.2c0.4,0.3,0.8,0.6,1.2,1c8.2,6.4,18.2,9.4,28.3,9.3l-0.2,0.2c-14.2,16-13.2,41,2.1,56.2c19.1,19,10.5,10.4,29.5,29.4
+			l1.2,1.3l10.2,10.2c0.3-0.4,0.6-0.8,1-1.2c5.6-7.1,8.6-15.7,9.2-24.5c17.8,13.3,43.9,11.3,60.1-4.8c20.9-20.9,14.2-14.1,35.1-35
+			c0.7-0.7,1.4-1.4,2.4-2.4C179.1,109.9,178.5,109.2,177.7,108.6z"/>
+	</mask>
+	<g class="st3">
+		<path d="M0,1.2h180v177.5H0V1.2z"/>
+	</g>
+</g>
+</svg>

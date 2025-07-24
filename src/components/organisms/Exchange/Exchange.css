@@ -1,0 +1,33 @@
+.select-color {
+  width: 100px;
+  height: 25px;
+  color: #000 !important;
+  font-size: 15px; /* Mobile-first: Applies to all screen sizes */
+  background-color: #f2f2f2;
+  font-weight: 700;
+}
+.select-color:hover {
+  cursor: pointer;
+}
+
+.select-color:focus {
+  border: 1px solid #ffcc66 !important;
+}
+
+.variant-size {
+  font-size: 14px;
+  padding: 11px 18px 13px 18px;
+  margin-right: 5px;
+  border: 1px solid #000;
+  background-color: #fff;
+}
+.variant-size.selected {
+  background-color: #000;
+  color: #fff;
+}
+.variant-selected {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 15px;
+}

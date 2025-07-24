@@ -1,0 +1,1092 @@
+[
+  {
+    "id": 30,
+    "shopify_variant_id": "47963466465589",
+    "title": "Schwarz / M",
+    "description": null,
+    "barcode_number": "4747179734799",
+    "sku": "PUMMYS|GLG|SCHWARZM|486|DS",
+    "shopify_quantity": 0,
+    "price": "0.00",
+    "weight": "2.00",
+    "weight_unit": "kg",
+    "virtual_stock": null,
+    "physical_stock": null,
+    "reserved_stock": null,
+    "picklist_stock": 0,
+    "reserved_picklist_stock": 0,
+    "inventory_item_id": null,
+    "storage_location": null,
+    "image": null,
+    "vendor": "Pummys™",
+    "product_type": "free_gift",
+    "tags": "no-refund",
+    "handle": "gefutterte-leggings-gratis",
+    "product_id": 4,
+    "deleted_at": null,
+    "created_at": "2024-02-08T16:27:33.000000Z",
+    "updated_at": "2024-02-14T17:38:46.000000Z",
+    "manufacturer_name": null,
+    "manufacturer_link": null,
+    "manufacturer_number": null,
+    "manufacturer_ean": null,
+    "country_of_origin": null,
+    "region_of_origin": null,
+    "default_warehouse": null,
+    "net_weight": null,
+    "is_stock_item": 0,
+    "is_postage": 0,
+    "is_discounted": 0,
+    "matrix_product": null,
+    "product_title": "Gefütterte Leggings gratis Schwarz / M",
+    "product": {
+      "id": 4,
+      "shopify_product_id": "9077975875893",
+      "title": "Gefütterte Leggings gratis",
+      "barcode_number": "",
+      "sku": "",
+      "vendor": "Pummys™",
+      "product_type": "free_gift",
+      "tags": "no-refund",
+      "handle": "gefutterte-leggings-gratis",
+      "deleted_at": null,
+      "created_at": "2024-02-08T16:27:33.000000Z",
+      "updated_at": "2024-02-08T16:27:33.000000Z"
+    },
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 3
+        },
+        {
+          "reason": "Wrong size",
+          "count": 0
+        },
+        {
+          "reason": "Wrong color",
+          "count": 34
+        },
+        {
+          "reason": "Not as described",
+          "count": 48
+        },
+        {
+          "reason": "Changed mind",
+          "count": 14
+        },
+        {
+          "reason": "Other",
+          "count": 45
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 3
+        },
+        {
+          "returnType": "refund",
+          "count": 0
+        },
+        {
+          "returnType": "refund",
+          "count": 34
+        },
+        {
+          "returnType": "exchange",
+          "count": 48
+        },
+        {
+          "returnType": "refund",
+          "count": 14
+        },
+        {
+          "returnType": "exchange",
+          "count": 45
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "shopify_variant_id": "47963449590069",
+    "title": "Schwarz / XS/S / Warm (15 bis 0°C)",
+    "description": null,
+    "barcode_number": "5293552734492",
+    "sku": "PUMMYS|GF|SCHWARZXS/S220G(15BIS|448|DS",
+    "shopify_quantity": 0,
+    "price": "34.99",
+    "weight": "0.20",
+    "weight_unit": "kg",
+    "virtual_stock": null,
+    "physical_stock": null,
+    "reserved_stock": null,
+    "picklist_stock": 0,
+    "reserved_picklist_stock": 0,
+    "inventory_item_id": null,
+    "storage_location": null,
+    "image": null,
+    "vendor": "Pummys™ - Offizieller Shop",
+    "product_type": "",
+    "tags": "gefuetterte_strumpfhose",
+    "handle": "gefuetterte-feinstrumpfhose",
+    "product_id": 2,
+    "deleted_at": null,
+    "created_at": "2024-02-08T16:27:33.000000Z",
+    "updated_at": "2024-02-14T17:38:46.000000Z",
+    "manufacturer_name": null,
+    "manufacturer_link": null,
+    "manufacturer_number": null,
+    "manufacturer_ean": null,
+    "country_of_origin": null,
+    "region_of_origin": null,
+    "default_warehouse": null,
+    "net_weight": null,
+    "is_stock_item": 0,
+    "is_postage": 0,
+    "is_discounted": 0,
+    "matrix_product": null,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Schwarz / XS/S / Warm (15 bis 0°C)",
+    "product": {
+      "id": 2,
+      "shopify_product_id": "9077968011573",
+      "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+      "barcode_number": "",
+      "sku": "",
+      "vendor": "Pummys™ - Offizieller Shop",
+      "product_type": "",
+      "tags": "gefuetterte_strumpfhose",
+      "handle": "gefuetterte-feinstrumpfhose",
+      "deleted_at": null,
+      "created_at": "2024-02-08T16:27:33.000000Z",
+      "updated_at": "2024-02-08T16:27:33.000000Z"
+    },
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 33
+        },
+        {
+          "reason": "Wrong size",
+          "count": 38
+        },
+        {
+          "reason": "Wrong color",
+          "count": 29
+        },
+        {
+          "reason": "Not as described",
+          "count": 3
+        },
+        {
+          "reason": "Changed mind",
+          "count": 29
+        },
+        {
+          "reason": "Other",
+          "count": 1
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 33
+        },
+        {
+          "returnType": "refund",
+          "count": 38
+        },
+        {
+          "returnType": "return",
+          "count": 29
+        },
+        {
+          "returnType": "refund",
+          "count": 3
+        },
+        {
+          "returnType": "return",
+          "count": 29
+        },
+        {
+          "returnType": "return",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "shopify_variant_id": "47963449786677",
+    "title": "Braun / M/L / Warm (15 bis 0°C)",
+    "description": null,
+    "barcode_number": "7736213650796",
+    "sku": "PUMMYS|GF|BRAUNM/L220G(15BIS|454|DS",
+    "shopify_quantity": 0,
+    "price": "34.99",
+    "weight": "0.10",
+    "weight_unit": "kg",
+    "virtual_stock": null,
+    "physical_stock": null,
+    "reserved_stock": null,
+    "picklist_stock": 0,
+    "reserved_picklist_stock": 0,
+    "inventory_item_id": null,
+    "storage_location": null,
+    "image": null,
+    "vendor": "Pummys™ - Offizieller Shop",
+    "product_type": "",
+    "tags": "gefuetterte_strumpfhose",
+    "handle": "gefuetterte-feinstrumpfhose",
+    "product_id": 2,
+    "deleted_at": null,
+    "created_at": "2024-02-08T16:27:33.000000Z",
+    "updated_at": "2024-02-14T17:38:46.000000Z",
+    "manufacturer_name": null,
+    "manufacturer_link": null,
+    "manufacturer_number": null,
+    "manufacturer_ean": null,
+    "country_of_origin": null,
+    "region_of_origin": null,
+    "default_warehouse": null,
+    "net_weight": null,
+    "is_stock_item": 0,
+    "is_postage": 0,
+    "is_discounted": 0,
+    "matrix_product": null,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Braun / M/L / Warm (15 bis 0°C)",
+    "product": {
+      "id": 2,
+      "shopify_product_id": "9077968011573",
+      "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+      "barcode_number": "",
+      "sku": "",
+      "vendor": "Pummys™ - Offizieller Shop",
+      "product_type": "",
+      "tags": "gefuetterte_strumpfhose",
+      "handle": "gefuetterte-feinstrumpfhose",
+      "deleted_at": null,
+      "created_at": "2024-02-08T16:27:33.000000Z",
+      "updated_at": "2024-02-08T16:27:33.000000Z"
+    },
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 40
+        },
+        {
+          "reason": "Wrong size",
+          "count": 16
+        },
+        {
+          "reason": "Wrong color",
+          "count": 47
+        },
+        {
+          "reason": "Not as described",
+          "count": 32
+        },
+        {
+          "reason": "Changed mind",
+          "count": 41
+        },
+        {
+          "reason": "Other",
+          "count": 21
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 40
+        },
+        {
+          "returnType": "exchange",
+          "count": 16
+        },
+        {
+          "returnType": "refund",
+          "count": 47
+        },
+        {
+          "returnType": "return",
+          "count": 32
+        },
+        {
+          "returnType": "refund",
+          "count": 41
+        },
+        {
+          "returnType": "exchange",
+          "count": 21
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "shopify_variant_id": "47963452735797",
+    "title": "Schwarz / XS/S / Warm (15 bis 0°C)",
+    "description": null,
+    "barcode_number": "5293552734492",
+    "sku": "PUMMYS|GF|SCHWARZXS/S220G(15BIS|448|DS",
+    "shopify_quantity": 0,
+    "price": "19.99",
+    "weight": "0.20",
+    "weight_unit": "kg",
+    "virtual_stock": null,
+    "physical_stock": null,
+    "reserved_stock": null,
+    "picklist_stock": 0,
+    "reserved_picklist_stock": 0,
+    "inventory_item_id": null,
+    "storage_location": null,
+    "image": null,
+    "vendor": "Pummys™ - Offizieller Shop",
+    "product_type": "",
+    "tags": "gefuetterte_strumpfhose",
+    "handle": "gefuetterte-feinstrumpfhose-jahressale",
+    "product_id": 3,
+    "deleted_at": null,
+    "created_at": "2024-02-08T16:27:33.000000Z",
+    "updated_at": "2024-02-14T17:38:46.000000Z",
+    "manufacturer_name": null,
+    "manufacturer_link": null,
+    "manufacturer_number": null,
+    "manufacturer_ean": null,
+    "country_of_origin": null,
+    "region_of_origin": null,
+    "default_warehouse": null,
+    "net_weight": null,
+    "is_stock_item": 0,
+    "is_postage": 0,
+    "is_discounted": 0,
+    "matrix_product": null,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Jahressale Schwarz / XS/S / Warm (15 bis 0°C)",
+    "product": {
+      "id": 3,
+      "shopify_product_id": "9077969289525",
+      "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Jahressale",
+      "barcode_number": "",
+      "sku": "",
+      "vendor": "Pummys™ - Offizieller Shop",
+      "product_type": "",
+      "tags": "gefuetterte_strumpfhose",
+      "handle": "gefuetterte-feinstrumpfhose-jahressale",
+      "deleted_at": null,
+      "created_at": "2024-02-08T16:27:33.000000Z",
+      "updated_at": "2024-02-08T16:27:33.000000Z"
+    },
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 15
+        },
+        {
+          "reason": "Wrong size",
+          "count": 6
+        },
+        {
+          "reason": "Wrong color",
+          "count": 3
+        },
+        {
+          "reason": "Not as described",
+          "count": 44
+        },
+        {
+          "reason": "Changed mind",
+          "count": 39
+        },
+        {
+          "reason": "Other",
+          "count": 18
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 15
+        },
+        {
+          "returnType": "refund",
+          "count": 6
+        },
+        {
+          "returnType": "refund",
+          "count": 3
+        },
+        {
+          "returnType": "return",
+          "count": 44
+        },
+        {
+          "returnType": "refund",
+          "count": 39
+        },
+        {
+          "returnType": "return",
+          "count": 18
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "shopify_variant_id": "47963449917749",
+    "title": "Grau / M/L / Warm (15 bis 0°C)",
+    "description": null,
+    "barcode_number": "4742146579427",
+    "sku": "PUMMYS|GF|GRAUM/L220G(15BIS|458|DS",
+    "shopify_quantity": 0,
+    "price": "34.99",
+    "weight": "0.10",
+    "weight_unit": "kg",
+    "virtual_stock": null,
+    "physical_stock": null,
+    "reserved_stock": null,
+    "picklist_stock": 0,
+    "reserved_picklist_stock": 0,
+    "inventory_item_id": null,
+    "storage_location": null,
+    "image": null,
+    "vendor": "Pummys™ - Offizieller Shop",
+    "product_type": "",
+    "tags": "gefuetterte_strumpfhose",
+    "handle": "gefuetterte-feinstrumpfhose",
+    "product_id": 2,
+    "deleted_at": null,
+    "created_at": "2024-02-08T16:27:33.000000Z",
+    "updated_at": "2024-02-14T17:38:46.000000Z",
+    "manufacturer_name": null,
+    "manufacturer_link": null,
+    "manufacturer_number": null,
+    "manufacturer_ean": null,
+    "country_of_origin": null,
+    "region_of_origin": null,
+    "default_warehouse": null,
+    "net_weight": null,
+    "is_stock_item": 0,
+    "is_postage": 0,
+    "is_discounted": 0,
+    "matrix_product": null,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Grau / M/L / Warm (15 bis 0°C)",
+    "product": {
+      "id": 2,
+      "shopify_product_id": "9077968011573",
+      "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+      "barcode_number": "",
+      "sku": "",
+      "vendor": "Pummys™ - Offizieller Shop",
+      "product_type": "",
+      "tags": "gefuetterte_strumpfhose",
+      "handle": "gefuetterte-feinstrumpfhose",
+      "deleted_at": null,
+      "created_at": "2024-02-08T16:27:33.000000Z",
+      "updated_at": "2024-02-08T16:27:33.000000Z"
+    },
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 9
+        },
+        {
+          "reason": "Wrong size",
+          "count": 26
+        },
+        {
+          "reason": "Wrong color",
+          "count": 13
+        },
+        {
+          "reason": "Not as described",
+          "count": 2
+        },
+        {
+          "reason": "Changed mind",
+          "count": 37
+        },
+        {
+          "reason": "Other",
+          "count": 34
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 9
+        },
+        {
+          "returnType": "return",
+          "count": 26
+        },
+        {
+          "returnType": "return",
+          "count": 13
+        },
+        {
+          "returnType": "exchange",
+          "count": 2
+        },
+        {
+          "returnType": "return",
+          "count": 37
+        },
+        {
+          "returnType": "exchange",
+          "count": 34
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "shopify_variant_id": "47963463811381",
+    "title": "Schwarz / XS/S / 350G (5 bis -10°C)",
+    "description": null,
+    "barcode_number": "4743580148804",
+    "sku": "PUMMYS|GFG|SCHWARZXS/S350G(5BIS-|482|DS",
+    "shopify_quantity": 0,
+    "price": "0.00",
+    "weight": "2.00",
+    "weight_unit": "kg",
+    "virtual_stock": null,
+    "physical_stock": null,
+    "reserved_stock": null,
+    "picklist_stock": 0,
+    "reserved_picklist_stock": 0,
+    "inventory_item_id": null,
+    "storage_location": null,
+    "image": null,
+    "vendor": "Pummys™",
+    "product_type": "free_gift",
+    "tags": "no-refund",
+    "handle": "gefutterte-feinstrumpfhose-gratis",
+    "product_id": 1,
+    "deleted_at": null,
+    "created_at": "2024-02-08T16:27:33.000000Z",
+    "updated_at": "2024-02-14T17:38:46.000000Z",
+    "manufacturer_name": null,
+    "manufacturer_link": null,
+    "manufacturer_number": null,
+    "manufacturer_ean": null,
+    "country_of_origin": null,
+    "region_of_origin": null,
+    "default_warehouse": null,
+    "net_weight": null,
+    "is_stock_item": 0,
+    "is_postage": 0,
+    "is_discounted": 0,
+    "matrix_product": null,
+    "product_title": "Gefütterte Feinstrumpfhose gratis Schwarz / XS/S / 350G (5 bis -10°C)",
+    "product": {
+      "id": 1,
+      "shopify_product_id": "9077975056693",
+      "title": "Gefütterte Feinstrumpfhose gratis",
+      "barcode_number": "",
+      "sku": "",
+      "vendor": "Pummys™",
+      "product_type": "free_gift",
+      "tags": "no-refund",
+      "handle": "gefutterte-feinstrumpfhose-gratis",
+      "deleted_at": null,
+      "created_at": "2024-02-08T16:27:33.000000Z",
+      "updated_at": "2024-02-08T16:27:33.000000Z"
+    },
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 33
+        },
+        {
+          "reason": "Wrong size",
+          "count": 40
+        },
+        {
+          "reason": "Wrong color",
+          "count": 46
+        },
+        {
+          "reason": "Not as described",
+          "count": 30
+        },
+        {
+          "reason": "Changed mind",
+          "count": 4
+        },
+        {
+          "reason": "Other",
+          "count": 9
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 33
+        },
+        {
+          "returnType": "exchange",
+          "count": 40
+        },
+        {
+          "returnType": "return",
+          "count": 46
+        },
+        {
+          "returnType": "exchange",
+          "count": 30
+        },
+        {
+          "returnType": "return",
+          "count": 4
+        },
+        {
+          "returnType": "refund",
+          "count": 9
+        }
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "shopify_variant_id": "47963470201141",
+    "title": "Braun / M/L / 220G (15 bis 0°C)",
+    "description": null,
+    "barcode_number": "7736213650796",
+    "sku": "PUMMYS|GF|BRAUNM/L220G(15BIS|454|DS",
+    "shopify_quantity": 0,
+    "price": "34.99",
+    "weight": "0.10",
+    "weight_unit": "kg",
+    "virtual_stock": null,
+    "physical_stock": null,
+    "reserved_stock": null,
+    "picklist_stock": 0,
+    "reserved_picklist_stock": 0,
+    "inventory_item_id": null,
+    "storage_location": null,
+    "image": null,
+    "vendor": "Pummys™ - Offizieller Shop",
+    "product_type": "",
+    "tags": "gefuetterte_strumpfhose",
+    "handle": "gefutterte-strumpfhose",
+    "product_id": 5,
+    "deleted_at": null,
+    "created_at": "2024-02-08T16:27:33.000000Z",
+    "updated_at": "2024-02-14T17:38:46.000000Z",
+    "manufacturer_name": null,
+    "manufacturer_link": null,
+    "manufacturer_number": null,
+    "manufacturer_ean": null,
+    "country_of_origin": null,
+    "region_of_origin": null,
+    "default_warehouse": null,
+    "net_weight": null,
+    "is_stock_item": 0,
+    "is_postage": 0,
+    "is_discounted": 0,
+    "matrix_product": null,
+    "product_title": "Gefütterte Strumpfhose mit Thermo-Fleece Braun / M/L / 220G (15 bis 0°C)",
+    "product": {
+      "id": 5,
+      "shopify_product_id": "9077978038581",
+      "title": "Gefütterte Strumpfhose mit Thermo-Fleece",
+      "barcode_number": "",
+      "sku": "",
+      "vendor": "Pummys™ - Offizieller Shop",
+      "product_type": "",
+      "tags": "gefuetterte_strumpfhose",
+      "handle": "gefutterte-strumpfhose",
+      "deleted_at": null,
+      "created_at": "2024-02-08T16:27:33.000000Z",
+      "updated_at": "2024-02-08T16:27:33.000000Z"
+    },
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 21
+        },
+        {
+          "reason": "Wrong size",
+          "count": 49
+        },
+        {
+          "reason": "Wrong color",
+          "count": 28
+        },
+        {
+          "reason": "Not as described",
+          "count": 20
+        },
+        {
+          "reason": "Changed mind",
+          "count": 12
+        },
+        {
+          "reason": "Other",
+          "count": 0
+        }
+      ],
+      "types": [
+        {
+          "returnType": "return",
+          "count": 21
+        },
+        {
+          "returnType": "refund",
+          "count": 49
+        },
+        {
+          "returnType": "refund",
+          "count": 28
+        },
+        {
+          "returnType": "refund",
+          "count": 20
+        },
+        {
+          "returnType": "refund",
+          "count": 12
+        },
+        {
+          "returnType": "return",
+          "count": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "shopify_variant_id": "47963463778613",
+    "title": "Schwarz / XS/S / 220G (15 bis 0°C)",
+    "description": null,
+    "barcode_number": "4742949731770",
+    "sku": "PUMMYS|GFG|SCHWARZXS/S220G(15BIS|481|DS",
+    "shopify_quantity": 0,
+    "price": "0.00",
+    "weight": "2.00",
+    "weight_unit": "kg",
+    "virtual_stock": null,
+    "physical_stock": null,
+    "reserved_stock": null,
+    "picklist_stock": 0,
+    "reserved_picklist_stock": 0,
+    "inventory_item_id": null,
+    "storage_location": null,
+    "image": null,
+    "vendor": "Pummys™",
+    "product_type": "free_gift",
+    "tags": "no-refund",
+    "handle": "gefutterte-feinstrumpfhose-gratis",
+    "product_id": 1,
+    "deleted_at": null,
+    "created_at": "2024-02-08T16:27:33.000000Z",
+    "updated_at": "2024-02-14T17:38:46.000000Z",
+    "manufacturer_name": null,
+    "manufacturer_link": null,
+    "manufacturer_number": null,
+    "manufacturer_ean": null,
+    "country_of_origin": null,
+    "region_of_origin": null,
+    "default_warehouse": null,
+    "net_weight": null,
+    "is_stock_item": 0,
+    "is_postage": 0,
+    "is_discounted": 0,
+    "matrix_product": null,
+    "product_title": "Gefütterte Feinstrumpfhose gratis Schwarz / XS/S / 220G (15 bis 0°C)",
+    "product": {
+      "id": 1,
+      "shopify_product_id": "9077975056693",
+      "title": "Gefütterte Feinstrumpfhose gratis",
+      "barcode_number": "",
+      "sku": "",
+      "vendor": "Pummys™",
+      "product_type": "free_gift",
+      "tags": "no-refund",
+      "handle": "gefutterte-feinstrumpfhose-gratis",
+      "deleted_at": null,
+      "created_at": "2024-02-08T16:27:33.000000Z",
+      "updated_at": "2024-02-08T16:27:33.000000Z"
+    },
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 28
+        },
+        {
+          "reason": "Wrong size",
+          "count": 0
+        },
+        {
+          "reason": "Wrong color",
+          "count": 17
+        },
+        {
+          "reason": "Not as described",
+          "count": 42
+        },
+        {
+          "reason": "Changed mind",
+          "count": 12
+        },
+        {
+          "reason": "Other",
+          "count": 7
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 28
+        },
+        {
+          "returnType": "return",
+          "count": 0
+        },
+        {
+          "returnType": "return",
+          "count": 17
+        },
+        {
+          "returnType": "refund",
+          "count": 42
+        },
+        {
+          "returnType": "return",
+          "count": 12
+        },
+        {
+          "returnType": "exchange",
+          "count": 7
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "shopify_variant_id": "47963449622837",
+    "title": "Schwarz / XS/S / Extra warm (0 bis -10°C)",
+    "description": null,
+    "barcode_number": "5294547116569",
+    "sku": "PUMMYS|GF|SCHWARZXS/S320G(5BIS-|449|DS",
+    "shopify_quantity": 0,
+    "price": "34.99",
+    "weight": "0.30",
+    "weight_unit": "kg",
+    "virtual_stock": null,
+    "physical_stock": null,
+    "reserved_stock": null,
+    "picklist_stock": 0,
+    "reserved_picklist_stock": 0,
+    "inventory_item_id": null,
+    "storage_location": null,
+    "image": null,
+    "vendor": "Pummys™ - Offizieller Shop",
+    "product_type": "",
+    "tags": "gefuetterte_strumpfhose",
+    "handle": "gefuetterte-feinstrumpfhose",
+    "product_id": 2,
+    "deleted_at": null,
+    "created_at": "2024-02-08T16:27:33.000000Z",
+    "updated_at": "2024-02-14T17:38:46.000000Z",
+    "manufacturer_name": null,
+    "manufacturer_link": null,
+    "manufacturer_number": null,
+    "manufacturer_ean": null,
+    "country_of_origin": null,
+    "region_of_origin": null,
+    "default_warehouse": null,
+    "net_weight": null,
+    "is_stock_item": 0,
+    "is_postage": 0,
+    "is_discounted": 0,
+    "matrix_product": null,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Schwarz / XS/S / Extra warm (0 bis -10°C)",
+    "product": {
+      "id": 2,
+      "shopify_product_id": "9077968011573",
+      "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+      "barcode_number": "",
+      "sku": "",
+      "vendor": "Pummys™ - Offizieller Shop",
+      "product_type": "",
+      "tags": "gefuetterte_strumpfhose",
+      "handle": "gefuetterte-feinstrumpfhose",
+      "deleted_at": null,
+      "created_at": "2024-02-08T16:27:33.000000Z",
+      "updated_at": "2024-02-08T16:27:33.000000Z"
+    },
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 6
+        },
+        {
+          "reason": "Wrong size",
+          "count": 44
+        },
+        {
+          "reason": "Wrong color",
+          "count": 1
+        },
+        {
+          "reason": "Not as described",
+          "count": 17
+        },
+        {
+          "reason": "Changed mind",
+          "count": 16
+        },
+        {
+          "reason": "Other",
+          "count": 33
+        }
+      ],
+      "types": [
+        {
+          "returnType": "exchange",
+          "count": 6
+        },
+        {
+          "returnType": "return",
+          "count": 44
+        },
+        {
+          "returnType": "return",
+          "count": 1
+        },
+        {
+          "returnType": "exchange",
+          "count": 17
+        },
+        {
+          "returnType": "refund",
+          "count": 16
+        },
+        {
+          "returnType": "return",
+          "count": 33
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "shopify_variant_id": "47963449917749",
+    "title": "Grau / M/L / Warm (15 bis 0°C)",
+    "description": null,
+    "barcode_number": "4742146579427",
+    "sku": "PUMMYS|GF|GRAUM/L220G(15BIS|458|DS",
+    "shopify_quantity": 0,
+    "price": "34.99",
+    "weight": "0.10",
+    "weight_unit": "kg",
+    "virtual_stock": null,
+    "physical_stock": null,
+    "reserved_stock": null,
+    "picklist_stock": 0,
+    "reserved_picklist_stock": 0,
+    "inventory_item_id": null,
+    "storage_location": null,
+    "image": null,
+    "vendor": "Pummys™ - Offizieller Shop",
+    "product_type": "",
+    "tags": "gefuetterte_strumpfhose",
+    "handle": "gefuetterte-feinstrumpfhose",
+    "product_id": 2,
+    "deleted_at": null,
+    "created_at": "2024-02-08T16:27:33.000000Z",
+    "updated_at": "2024-02-14T17:38:46.000000Z",
+    "manufacturer_name": null,
+    "manufacturer_link": null,
+    "manufacturer_number": null,
+    "manufacturer_ean": null,
+    "country_of_origin": null,
+    "region_of_origin": null,
+    "default_warehouse": null,
+    "net_weight": null,
+    "is_stock_item": 0,
+    "is_postage": 0,
+    "is_discounted": 0,
+    "matrix_product": null,
+    "product_title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece Grau / M/L / Warm (15 bis 0°C)",
+    "product": {
+      "id": 2,
+      "shopify_product_id": "9077968011573",
+      "title": "Gefütterte Feinstrumpfhose mit Thermo-Fleece",
+      "barcode_number": "",
+      "sku": "",
+      "vendor": "Pummys™ - Offizieller Shop",
+      "product_type": "",
+      "tags": "gefuetterte_strumpfhose",
+      "handle": "gefuetterte-feinstrumpfhose",
+      "deleted_at": null,
+      "created_at": "2024-02-08T16:27:33.000000Z",
+      "updated_at": "2024-02-08T16:27:33.000000Z"
+    },
+    "returns": {
+      "reasons": [
+        {
+          "reason": "Damaged",
+          "count": 39
+        },
+        {
+          "reason": "Wrong size",
+          "count": 3
+        },
+        {
+          "reason": "Wrong color",
+          "count": 12
+        },
+        {
+          "reason": "Not as described",
+          "count": 24
+        },
+        {
+          "reason": "Changed mind",
+          "count": 2
+        },
+        {
+          "reason": "Other",
+          "count": 48
+        }
+      ],
+      "types": [
+        {
+          "returnType": "refund",
+          "count": 39
+        },
+        {
+          "returnType": "return",
+          "count": 3
+        },
+        {
+          "returnType": "return",
+          "count": 12
+        },
+        {
+          "returnType": "return",
+          "count": 24
+        },
+        {
+          "returnType": "refund",
+          "count": 2
+        },
+        {
+          "returnType": "exchange",
+          "count": 48
+        }
+      ]
+    }
+  }
+]

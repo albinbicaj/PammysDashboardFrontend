@@ -1,0 +1,11 @@
+.user-modal {
+  width: 492px;
+  height: 763px;
+  border-radius: 0px !important;
+}
+.modal-icon {
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  background-color: #2f80ed;
+}

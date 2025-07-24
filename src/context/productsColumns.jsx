@@ -1,0 +1,77 @@
+export const productColumns = [
+  // {
+  //   field: 'expand_action',
+  //   headerName: '',
+  //   sortable: false,
+  //   sort: false,
+  //   search: false,
+  //   width: '50px',
+  // },
+  {
+    field: 'barcode_number',
+    headerName: 'Barcode',
+    sortable: false,
+    sort: true,
+    search: true,
+    width: '150px',
+  },
+  {
+    field: 'sku',
+    headerName: 'Sku',
+    sortable: false,
+    sort: true,
+    search: true,
+  },
+  {
+    field: 'title',
+    headerName: 'Produkt',
+    sortable: false,
+    sort: true,
+    search: true,
+
+    width: '280px',
+  },
+  // {
+  //   field: 'virtual_stock',
+  //   headerName: 'Viurtuelle Aktie',
+  //   sortable: false,
+  // },
+  // {
+  //   field: 'reserved_stock',
+  //   headerName: 'Verpflichtet',
+  //   sortable: false,
+  // },
+  {
+    field: 'reserved_stock',
+    headerName: 'Committed',
+    sortable: false,
+    sort: true,
+    search: true,
+  },
+  {
+    field: 'physical_stock',
+    headerName: 'Lagerbestand',
+    sortable: false,
+    sort: true,
+    search: true,
+  },
+  {
+    field: 'picklist_stock',
+    headerName: 'Picklist Stock',
+    sortable: false,
+    sort: true,
+    search: true,
+  },
+  {
+    field: 'reserved_picklist_stock',
+    headerName: 'In Piklists',
+    sortable: false,
+    sort: true,
+    search: true,
+  },
+  {
+    field: 'actions',
+    headerName: 'Menü',
+    sortable: false,
+  },
+];

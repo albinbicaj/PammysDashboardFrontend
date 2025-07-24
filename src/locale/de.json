@@ -1,0 +1,204 @@
+{
+  "translations": {
+    "returnHeader": "Retourenportal",
+    "returnText": "Um zu starten, gib hier deine Bestellnummer & E-Mail Adresse ein.",
+    "returnSubText": "Bitte beachte die Groß- und Kleinschreibung deine E-Mailadresse.",
+    "returnOrderNumber": "Bestellnummer",
+    "returnEmail": "E-Mail",
+    "returnStart": "Starten",
+    "returnPolicy": "Rückgaberichtlinien",
+    "returnBanner": "Pammys™ kompensiert die CO2-Emissionen deiner Retoure."
+  },
+  "Wählen Sie Ihre Sprache": "Wählen Sie Ihre Sprache",
+  "login-to-pammys": "Anmeldung bei Pammys",
+  "loginForm": {
+    "title": "Retourenportal",
+    "text": "Um zu starten, gib hier deine Bestellnummer & E-Mail Adresse ein.",
+    "subText": "Bitte beachte die Groß- und Kleinschreibung deine E-Mailadresse.",
+    "inputPlacehoderText": "Bestellnummer (#1001)",
+    "inputPlacehoderEmail": "E-Mail",
+    "submitButtonText": "Start",
+    "linkText": "Rückgaberichtlinien"
+  },
+  "returnPortalLayout": {
+    "returnText": "Was möchtest du zurücksenden?",
+    "overviewText": "Deine Übersicht",
+    "footerText": "kompensiert die CO2-Emissionen deiner Retoure."
+  },
+  "global": {
+    "waitButtonText": "Weiter",
+    "goBackButtonText": "Zurücksenden",
+    "thankyouText": "Vielen Dank!",
+    "requireText": "Bitte fülle alle Felder aus und lade mindestens 3 Fotos hoch",
+    "selectProductExchange": "Wählen Sie das Produkt aus, das Sie austauschen möchten"
+  },
+  "returnOrder": {
+    "title": "Verfügbare Produkte für eine Retoure",
+    "returnStartedText": "Retoure gestartet"
+  },
+  "selectOptionReasons": {
+    "Grund": "Grund",
+    "zu klein": "zu klein",
+    "zu groß": "zu groß",
+    "gefällt mir nicht": "gefällt mir nicht",
+    "Qualität nicht ausreichend": "Qualität nicht ausreichend",
+    "beschädigt": "beschädigt",
+    "Lieferung zu spät": "Lieferung zu spät",
+    "Falschlieferung / fehlender Artikel": "Falschlieferung / fehlender Artikel",
+    "developerNote": "Below are safer variants for handling these values as they are typed using english alphabet",
+    "reason": "Grund",
+    "tooSmall": "zu klein",
+    "tooBig": "zu groß",
+    "dontLikeIt": "gefällt mir nicht",
+    "qualityNotSufficient": "Qualität nicht ausreichend",
+    "damaged": "beschädigt",
+    "deliveryTooLate": "Lieferung zu spät",
+    "wrongDeliveryOrMissingItem": "Falschlieferung / fehlender Artikel"
+  },
+  "selectOptionReasonsDashboard": {
+    "Grund": "Grund",
+    "zu klein": "zu klein",
+    "zu groß": "zu groß",
+    "gefällt mir nicht": "gefällt mir nicht",
+    "Qualität nicht ausreichend": "Qualität nicht ausreichend",
+    "beschädigt": "beschädigt",
+    "Mangel / beschädigter Artikel": "Mangel / beschädigter Artikel",
+    "Lieferung zu spät": "Lieferung zu spät",
+    "Falschlieferung / fehlender Artikel": "Falschlieferung / fehlender Artikel",
+    "Unzustellbare Sendung": "Unzustellbare Sendung",
+    "nicht abgeholt / annahme verweigert": "nicht abgeholt / annahme verweigert",
+    "Empfänger nicht zu ermitteln / nicht zustellbar": "Empfänger nicht zu ermitteln / nicht zustellbar",
+    "entspricht nicht den Versandbedingunge / Beschädigung der Umverpackung": "entspricht nicht den Versandbedingunge / Beschädigung der Umverpackung"
+  },
+  "selectOptionReklamtionReason": {
+    "Grund": "Grund",
+    "beschädigt": "beschädigt"
+  },
+  "selectOptionResaonsForExchange": {
+    "Grund": "Grund",
+    "zu klein": "zu klein",
+    "zu groß": "zu groß",
+    "Changed my mind": "Changed my mind"
+  },
+  "returnProductsStep": {
+    "title": "Umtauschen in eine andere Variante",
+    "color": "Farbe",
+    "size": "Größe",
+    "Rosa": "Rosa",
+    "Schwarz": "Schwarz",
+    "Beige": "Beige",
+    "Grau": "Grau",
+    "Khaki": "Khaki",
+    "noteSupport": "Notiz - teile dem Support Informationen zu deinem Anliegen mit: ",
+    "requestSubmitedTrue": "Wir haben deine Anfrage erhalten. Falls du eine weitere Retoure registrieren oder deine bereits angemeldete Retoure ändern möchtest, logge dich bitte erneut in unserem Retourenportal an.",
+    "requestSubmitedFalse": "Du hast alle erforderlichen Artikel für die Rücksendung angemeldet. Über den weiteren Verlauf halten wir dich per E-Mail auf dem Laufenden.",
+    "exchangeText": "Wird umgetauscht in"
+  },
+  "uploadField": {
+    "boldText": "Anhang:",
+    "text": " hänge hier bitte jeweils ein Foto an, wo man den Artikel vollständig sieht, eins von dem Mangel, eins von den Sohlen (falls Sandalen / Schuhe) und eins von der Verpackung (unser Karton).",
+    "misDeliveryBoldText": "Anhang:",
+    "misDeliveryText": "hänge hier Fotos an, die dem Support Team zeigen, was in deiner Sendung geleifert wurde und was fehlt. Ein Foto muss deine gesamte Sendung anzeigen, auf einem weiteren muss unser Karton mit dem Versandlabel zu sehen sein. Auf mindesten einem Foto müssen die Größen deiner gelieferten Produkte zu sehen sein. Du kannst aber auch weitere Foto anhängen.",
+    "dropFilesText": "Drop files here...",
+    "dragDropFilesText": "Dateien hier ablegen oder klicken, um Dateien auszuwählen",
+    "alertText": "Es sind maximal 5 Fotos erlaubt!"
+  },
+  "product": {
+    "textSupport": "Prüfung durch Support",
+    "Umtausch": "Umtausch",
+    "Rückgabe": "Rückgabe",
+    "package_damaged_checkbox": "Mein Paket ist beschädigt und/oder von DHL nachverpackt worden"
+  },
+  "returnSuccessPage": {
+    "finishedText": "Fast fertig!",
+    "thankyouText": "Vielen Dank für die Registrierung deiner Reklamation!",
+    "text": "Wir wollen uns ausdrücklich dafür entschuldigen, dass du beschädigte Artikel erhalten hast! Das Support-Team wird sich schnellstmöglich bei dir melden und deine Reklamationsanfrage prüfen.",
+    "thankyouTextSecond": "Vielen Dank für die Registrierung deiner Falschlieferung!",
+    "textSecond": "Wir wollen uns ausdrücklich dafür entschuldigen, dass du eine Falschlieferung erhalten hast! Das Support-Team wird sich schnellstmöglich bei dir melden und deine Anfrage prüfen.",
+    "processingTimeText": "Zurzeit liegt die Bearbeitungszeit zwischen 3-7 Tagen.",
+    "giftOrderAcceptText": "Drucke dein Rücksendeformular aus und lege es samt den Artikeln in einen Karton. Schicke das Paket innerhalb der Rückgabefrist (14 Tage ab Zustellung deiner Bestellung an dich) an uns zurück. Bitte beachte alle weiteren Informationen zu deiner Rücksendung, die wir dir per E-Mail zugesendet haben.",
+    "note": "HINWEIS:",
+    "orderAcceptNote": "Wir möchten ausdrücklich darauf hinweisen und bitten dich um dein Verständnis, dass wir aus Umweltschutzgründen die Rücksendekosten für Rückgaben nicht übernehmen. Diese Information kommunizieren wir in unseren FAQs sowie in unserer Widerrufsbelehrung.",
+    "downloadReturnForm": "Rücksendeformular herunterladen",
+    "downloadDhReturnLabel": "DHL Rücksendelabel herunderladen",
+    "returnToPortal": "Zurück zum Portal",
+    "de": {
+      "title": "<strong>Fast geschafft!</strong>",
+      "instruction": "Bitte drucke das <strong>Rücksendeformular</strong> aus und lege es zusammen mit den Artikeln in einen Karton.",
+      "return_period": "Sende das Paket innerhalb der <strong>14-tägigen Rückgabefrist</strong> (ab Erhalt deiner Bestellung) an uns zurück.",
+      "email_info": "Alle weiteren Informationen zu deiner Rücksendung findest du in der E-Mail, die wir dir geschickt haben.",
+      "free_return_label": "Damit du deine Artikel problemlos zurücksenden kannst, stellen wir dir ein <strong>kostenloses DHL-Rücksendeetikett</strong> zur Verfügung.",
+      "free_shipping": "Der Rückversand ist für dich somit <strong>komplett kostenfrei</strong>.",
+      "more_info": "Alle weiteren Informationen zu deiner Rücksendung findest du in unseren <strong>FAQs</strong> sowie in der <strong>Widerrufsbelehrung</strong>."
+    },
+    "outside_de": {
+      "title": "<strong>Fast geschafft!</strong>",
+      "instruction": "Bitte drucke das <strong>Rücksendeformular</strong> aus und lege es zusammen mit den Artikeln in einen Karton.",
+      "return_period": "Sende das Paket innerhalb der <strong>14-tägigen Rückgabefrist</strong> (ab Erhalt deiner Bestellung) an uns zurück.",
+      "email_info": "Alle weiteren Informationen zu deiner Rücksendung findest du in der E-Mail, die wir dir geschickt haben.",
+      "important_note": "<strong>Wichtiger Hinweis:</strong> Wir übernehmen die Kosten für Rücksendungen nicht, da wir aus Umweltschutzgründen bewusst auf kostenlose Retouren verzichten. Wir bitten um dein Verständnis.",
+      "more_info": "Bitte informiere dich vor der Rücksendung in unseren <strong>FAQs</strong> und der <strong>Widerrufsbelehrung</strong>, um alle wichtigen Details zu erfahren."
+    }
+  },
+  "reklamationNoification": {
+    "title": "Rückgabefrist überschritten",
+    "text": "Deine Zufriedenheit liegt uns echt am Herzen, und wir möchten dich darüber informieren, dass gemäß unserer Rückgaberichtlinien Rücksendeanträge für Bestellungen, die älter als 14 Tage sind, nicht möglich sind.",
+    "secondText": "Falls du jedoch feststellst, dass ein Artikel fehlerhaft oder beschädigt ist, kannst du weiterhin eine Reklamation initiieren.",
+    "thirdText": "Hinweis: Bitte beachte, dass das Retourenportal nach Ablauf der 14-tägigen Rückgabefrist ausschließlich für Reklamationen genutzt werden darf. Wir empfehlen, es nicht irrtümlich für Rücksendungen außerhalb dieser Frist zu verwenden.",
+    "buttonText": "Reklamation anmelden"
+  },
+  "storeCreditModal": {
+    "giftCardNotAvailableText": "Geschenkkarte nicht möglich",
+    "giftCardNotAvailableSecondText": "Wir möchten dir gerne ein exklusives Angebot unterbreiten",
+    "giftCardNotAvailableThridText": "Ein Geschenkcode kann nicht erstellt werden, da der Bestellwert 0,00€ beträgt.",
+    "giftInitailValueText": "Anstelle der Rückerstattung auf die ursprünglich verwendete Zahlungsmethode, möchten wir dir einen Geschenkcode mit einem zusätzlichen Guthaben in Höhe von",
+    "giftInitailSecondText": "anbieten. Des Weiten ist der",
+    "giftInitailThirdText": "Versand für die Rücksendung kostenlos,",
+    "giftInitailForthText": "da wir dir ein kostenloses Retourenlabel von DHL zur Verfügung stellen.",
+    "noticeTextBold": "Hinweis:",
+    "noticeText": "Solltest du dich im Nachhinein für eine Rückerstattung auf die ursprüngliche Zahlungsmethode entscheiden, behalten wir uns vor, die Kosten für das Rücksendelabel von deinem Erstattungsbetrag abzuziehen.",
+    "giftVoucherText": "Den Geschenkcode kannst du uneingeschränkt als Zahlungsmittel für alle Produkte in unserem Shop anwenden.",
+    "continue": "Fortsetzen",
+    "giftCardText": "Geschenkcode",
+    "refund": "Erstattung",
+
+    "exclusive_offer": "<bold>Wir möchten dir gerne ein exklusives Angebot unterbreiten</bold>",
+    "voucher_offer": "Anstelle der Rückerstattung auf die ursprünglich verwendete Zahlungsmethode, möchten wir dir einen einmaligen <bold>Geschenkcode</bold> mit einem zusätzlichen Guthaben in Höhe von <bold>{{amount}} €</bold> anbieten.",
+    "free_shipping": "Des Weiteren ist der <bold>Versand für die Rücksendung kostenlos</bold>, da wir dir ein kostenloses Retourenlabel von DHL zur Verfügung stellen.",
+    "note": "<bold>Hinweis:</bold> Sobald du dich für den <bold>Geschenkcode</bold> entscheidest, ist eine nachträgliche Änderung oder Rückerstattung auf die ursprüngliche Zahlungsmethode <bold>nicht mehr möglich</bold>. Der Code ist <bold>einmalig gültig</bold>, und falls der Wert des Codes bei der Einlösung nicht vollständig genutzt wird, <bold>verfällt der Restbetrag</bold> unwiderruflich.",
+    "agreement": "Ich habe den Hinweis zur <bold>Unwiderruflichkeit</bold> des Geschenkcodes gelesen, bin damit <bold>einverstanden</bold> und habe die <bold>AGB</bold> zur Kenntnis genommen.",
+    "outside_de": {
+      "exclusive_offer": "<bold>Wir möchten dir gerne ein exklusives Angebot unterbreiten</bold>",
+      "voucher_offer": "Anstelle der Rückerstattung auf die ursprünglich verwendete Zahlungsmethode, möchten wir dir einen einmaligen <bold>Geschenkcode</bold> mit einem zusätzlichen Guthaben in Höhe von <bold>{{amount}} €</bold> anbieten.",
+      "free_shipping": "",
+      "note": "<bold>Hinweis:</bold> Sobald du dich für den <bold>Geschenkcode</bold> entscheidest, ist eine nachträgliche Änderung oder Rückerstattung auf die ursprüngliche Zahlungsmethode <bold>nicht mehr möglich</bold>. Der Code ist <bold>einmalig gültig</bold>, und falls der Wert des Codes bei der Einlösung nicht vollständig genutzt wird, <bold>verfällt der Restbetrag</bold> unwiderruflich.",
+      "agreement": "Ich habe den Hinweis zur <bold>Unwiderruflichkeit</bold> des Geschenkcodes gelesen, bin damit <bold>einverstanden</bold> und habe die <bold>AGB</bold> zur Kenntnis genommen."
+    }
+  },
+  "countries": {
+    "DE": "Deutschland",
+    "FR": "Frankreich",
+    "NL": "Niederlande",
+    "AT": "Österreich",
+    "PL": "Polen",
+    "PT": "Portugal",
+    "ES": "Spanien",
+    "CZ": "Tschechische Republik"
+  },
+  "Submit": "Speichern",
+  "filters": {
+    "barcode_number": "Rücksendung",
+    "refund_created_at": "Bearbeitet",
+    "created_at": "Angemeldet",
+    "order_number": "Bestellung",
+    "full_name": "Kunde",
+    "status": "Status",
+    "type": "Rücksendeart",
+    "payment_method": "Zahlungsmethode",
+    "card": "Card",
+    "paypal": "PayPal",
+    "klarna": "Klarna",
+    "gift_card": "Gift Card",
+    "Viva.com Smart Checkout": "Viva.com"
+  }
+}

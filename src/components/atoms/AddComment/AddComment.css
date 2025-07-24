@@ -1,0 +1,22 @@
+.add-comment-input {
+  background-color: #fff;
+  width: 60%;
+  height: 100%;
+  padding-left: 5px;
+}
+/* .add-comment-input::placeholder {
+  background-color: #fff;
+  padding-left: 5px;
+}
+.add-comment-button {
+  width: 60px;
+  height: 36px;
+  background-color: #ffcc66;
+  margin-right: 5px;
+  cursor: pointer;
+} */
+.add-comment-button.disabled {
+  cursor: default;
+  color: grey;
+  background-color: #ffcc99;
+}

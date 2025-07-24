@@ -1,0 +1,63 @@
+.store-credit-modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 270px;
+  /* height: 575px; */
+  background-color: #f5f5f5;
+  /* padding-left: 32px; */
+  /* padding-right: 32px; */
+}
+.credit-button {
+  background-color: #ffeed4;
+  height: 50px;
+  width: 130px;
+  color: 303030;
+  font-size: 15px;
+}
+.gift-card-button {
+  width: 170px;
+  background-color: #ffc55b;
+  height: 50px;
+  font-size: 15px;
+}
+.giftcard-info {
+  font-size: 12px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 16px;
+}
+.giftcard-product-info {
+  font-size: 12px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 23px;
+}
+
+@media (min-width: 326px) {
+  .store-credit-modal {
+    width: 430px;
+    margin-left: 3px;
+  }
+  .credit-button {
+    width: 150px;
+  }
+  .gift-card-button {
+    width: 180px;
+  }
+}
+@media (min-width: 425px) {
+  .store-credit-modal {
+    width: 450px;
+  }
+}
+
+@media (min-width: 640px) {
+  .credit-button {
+    width: 180px;
+  }
+  .gift-card-button {
+    width: 170px;
+  }
+}

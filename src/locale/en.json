@@ -1,0 +1,174 @@
+{
+  "translations": {
+    "returnHeader": "Returns Portal",
+    "returnText": "To get started, enter your order number & email address here.",
+    "returnSubText": "Please note that your e-mail address is case-sensitive.",
+    "returnOrderNumber": "Order Number",
+    "returnEmail": "Email",
+    "returnStart": "Start",
+    "returnPolicy": "Return Policy",
+    "returnBanner": "Pammys™ compensates for the CO2 emissions of your return."
+  },
+  "Wählen Sie Ihre Sprache": "Select your language",
+  "login-to-pammys": "Login to Pammys",
+  "loginForm": {
+    "title": "Returns Portal",
+    "text": "To get started, enter your order number & email address here.",
+    "subText": "Please note that your e-mail address is case-sensitive.",
+    "inputPlacehoderText": "Order Number (#1001)",
+    "inputPlacehoderEmail": "Email",
+    "submitButtonText": "Start",
+    "linkText": "Return Policy"
+  },
+  "returnPortalLayout": {
+    "returnText": "What would you like to return?",
+    "overviewText": "Your Overview",
+    "footerText": "compensates for the CO2 emissions of your return."
+  },
+  "global": {
+    "waitButtonText": "Continue",
+    "goBackButtonText": "Return",
+    "thankyouText": "Thank you!",
+    "requireText": "Please fill out all fields and upload at least 3 photos",
+    "selectProductExchange": "Select the product you want to exchange"
+  },
+  "returnOrder": {
+    "title": "Available Products for Return",
+    "returnStartedText": "Return started"
+  },
+  "selectOptionReasons": {
+    "Grund": "Reason",
+    "zu klein": "Too small",
+    "zu groß": "Too big",
+    "gefällt mir nicht": "Don't like it",
+    "Qualität nicht ausreichend": "Quality not sufficient",
+    "beschädigt": "Damaged",
+    "Lieferung zu spät": "Delivery too late",
+    "Falschlieferung / fehlender Artikel": "Wrong delivery / missing item",
+    "developerNote": "Below are safer variants for handling these values as they are typed using english alphabet",
+    "reason": "Reason",
+    "tooSmall": "Too small",
+    "tooBig": "Too big",
+    "dontLikeIt": "Don't like it",
+    "qualityNotSufficient": "Quality not sufficient",
+    "damaged": "Damaged",
+    "deliveryTooLate": "Delivery too late",
+    "wrongDeliveryOrMissingItem": "Wrong delivery / missing item"
+  },
+  "selectOptionReasonsDashboard": {
+    "Grund": "Reason",
+    "zu klein": "Too small",
+    "zu groß": "Too big",
+    "gefällt mir nicht": "Don't like it",
+    "Qualität nicht ausreichend": "Quality not sufficient",
+    "beschädigt": "Damaged",
+    "Mangel / beschädigter Artikel": "Defect / damaged item",
+    "Lieferung zu spät": "Delivery too late",
+    "Falschlieferung / fehlender Artikel": "Wrong delivery / missing item",
+    "Unzustellbare Sendung": "Undeliverable shipment",
+    "nicht abgeholt / annahme verweigert": "not collected / acceptance refused",
+    "Empfänger nicht zu ermitteln / nicht zustellbar": "Recipient cannot be determined / cannot be delivered",
+    "entspricht nicht den Versandbedingunge / Beschädigung der Umverpackung": "Does not correspond to the shipping conditions / damage to the outer packaging"
+  },
+  "selectOptionReklamtionReason": {
+    "Grund": "Reason",
+    "beschädigt": "Damaged"
+  },
+  "selectOptionResaonsForExchange": {
+    "Grund": "Reason",
+    "zu klein": "Too small",
+    "zu groß": "Too big",
+    "Changed my mind": "Changed my mind"
+  },
+  "returnProductsStep": {
+    "title": "Exchange for another variant",
+    "color": "Color",
+    "size": "Size",
+    "Rosa": "Pink",
+    "Schwarz": "Black",
+    "Beige": "Beige",
+    "Grau": "Gray",
+    "Khaki": "Khaki",
+    "noteSupport": "Note - provide support with information about your concern: ",
+    "requestSubmitedTrue": "We have received your request. If you want to register another return or modify your already registered return, please log in to our return portal again.",
+    "requestSubmitedFalse": "You have registered all the items required for return. We will keep you updated on the further process by email.",
+    "exchangeText": "Will be exchanged for"
+  },
+  "uploadField": {
+    "boldText": "Attachment:",
+    "text": "please attach one photo each showing the item in full, one of the defect, one of the soles (if sandals/shoes), and one of the packaging (our box).",
+    "misDeliveryBoldText": "Attachment:",
+    "misDeliveryText": "attach photos here showing the support team what was delivered in your shipment and what is missing. One photo must show your entire shipment, another must show our box with the shipping label. At least one photo must show the sizes of your delivered products. You can also attach additional photos.",
+    "dropFilesText": "Drop files here...",
+    "dragDropFilesText": "Drag and drop files here, or click to select files",
+    "alertText": "A maximum of 5 photos is allowed!"
+  },
+  "product": {
+    "textSupport": "Support review",
+    "Umtausch": "Exchange",
+    "Rückgabe": "Return",
+    "package_damaged_checkbox": "My parcel has been damaged and/or repackaged by DHL"
+  },
+  "returnSuccessPage": {
+    "finishedText": "Almost done!",
+    "thankyouText": "Thank you for registering your complaint!",
+    "text": "We sincerely apologize for receiving damaged items! The support team will contact you as soon as possible and review your complaint request.",
+    "thankyouTextSecond": "Thank you for registering your wrong delivery!",
+    "textSecond": "We sincerely apologize for receiving a wrong delivery! The support team will contact you as soon as possible and review your request.",
+    "processingTimeText": "Currently, the processing time is between 3-7 days.",
+    "giftOrderAcceptText": "Print out your return form and include it with the items in a box. Return the package to us within the return period (14 days from delivery of your order). Please note all further information about your return that we have sent you by email.",
+    "note": "NOTE:",
+    "orderAcceptNote": "We would like to expressly point out and ask for your understanding that we do not cover the return costs for returns for environmental reasons. We communicate this information in our FAQs and in our cancellation policy.",
+    "downloadReturnForm": "Download Return Form",
+    "downloadDhReturnLabel": "Download DHL Return Label",
+    "returnToPortal": "Return to Portal"
+  },
+  "reklamationNoification": {
+    "title": "Return period exceeded",
+    "text": "Your satisfaction is really important to us, and we want to inform you that according to our return policy, return requests for orders older than 14 days are not possible.",
+    "secondText": "However, if you find that an item is faulty or damaged, you can still initiate a complaint.",
+    "thirdText": "Note: Please be aware that the return portal may only be used for complaints after the 14-day return period has expired. We recommend not mistakenly using it for returns outside of this period.",
+    "buttonText": "Initiate Complaint"
+  },
+  "storeCreditModal": {
+    "giftCardNotAvailableText": "Gift card not available",
+    "giftCardNotAvailableSecondText": "We would like to offer you an exclusive deal",
+    "giftCardNotAvailableThridText": "A gift card cannot be created as the order value is 0.00€.",
+    "giftInitailValueText": "Instead of refunding to the originally used payment method, we would like to offer you a gift card with an additional balance of",
+    "giftInitailSecondText": "Additionally, the",
+    "giftInitailThirdText": "return shipping is free,",
+    "giftInitailForthText": "as we provide you with a free return label from DHL.",
+    "noticeTextBold": "Notice:",
+    "noticeText": "If you decide later for a refund to the original payment method, we reserve the right to deduct the costs for the return label from your refund amount.",
+    "giftVoucherText": "You can use the gift voucher unrestrictedly as a means of payment for all products in our shop.",
+    "continue": "Continue",
+    "giftCardText": "Gift card",
+    "refund": "Refund"
+  },
+  "countries": {
+    "DE": "Germany",
+    "FR": "France",
+    "NL": "Netherlands",
+    "AT": "Austria",
+    "PL": "Poland",
+    "PT": "Portugal",
+    "ES": "Spain",
+    "CZ": "Czech Republic"
+  },
+  "Submit": "Submit",
+  "filters": {
+    "barcode_number": "Rücksendung",
+    "refund_created_at": "Bearbeitet",
+    "created_at": "Angemeldet",
+    "order_number": "Bestellung",
+    "full_name": "Kunde",
+    "status": "Status",
+    "type": "Rücksendeart",
+    "payment_method": "Zahlungsmethode",
+    "card": "Card",
+    "paypal": "PayPal",
+    "klarna": "Klarna",
+    "gift_card": "Gift Card",
+    "Viva.com Smart Checkout": "Viva.com"
+  }
+}

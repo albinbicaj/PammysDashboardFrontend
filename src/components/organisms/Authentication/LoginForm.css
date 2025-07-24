@@ -1,0 +1,19 @@
+.dashboard-login-wrapper {
+  background-color: #f4f6f8;
+}
+.login-form-wrapper {
+  width: 440px;
+  height: 425px;
+}
+.input-email,
+.input-password {
+  width: 376px;
+  height: 40px;
+}
+
+.login-button {
+  width: 376px;
+  height: 36px;
+  background-color: #2f80ed;
+  color: #fff;
+}
