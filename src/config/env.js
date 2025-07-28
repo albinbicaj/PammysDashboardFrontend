@@ -2,7 +2,7 @@
 // export const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:8000';
 // export const API_URL = `${BACKEND_URL}/api`;
 
-export const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/api';
+export const API_URL = import.meta.env.VITE_API_URL || 'https://pw-backend-staging.diesea.de/api';
 export const BACKEND_URL = API_URL.replace(/\/api$/, '');
 export const AUTH_TOKEN_KEY = import.meta.env.VITE_AUTH_TOKEN_KEY;
 export const SHOPIFY_STORE = import.meta.env.VITE_SHOPIFY_STORE || 'pummmys';
