@@ -135,7 +135,7 @@ export const UploadField = ({ product_id }) => {
                     />
                   </div>
                   <Tooltip title={image.path} className="cursor-pointer" arrow>
-                    <p className="w-full overflow-hidden truncate">{image.path}</p>
+                    <p className="w-full overflow-hidden truncate">{image.name}</p>
                   </Tooltip>
                   <div className="absolute right-0 top-0 m-1 rounded-md bg-black bg-opacity-50 p-0.5">
                     <IconX

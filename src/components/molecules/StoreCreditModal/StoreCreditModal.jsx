@@ -200,7 +200,7 @@ export const StoreCreditModal = ({ showModal, handleSubmit }) => {
                   </div>
                   {checkboxError && (
                     <p className="pl-[24px] text-sm text-red-500">
-                      Please read and accept the agreement.
+                      Bitte lesen und akzeptieren Sie die Vereinbarung.
                     </p>
                   )}
                 </div>
