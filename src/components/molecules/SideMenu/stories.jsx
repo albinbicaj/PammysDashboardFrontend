@@ -463,6 +463,6 @@ export const profileItems = [
     path: '/dashboard/users',
     icon: <FiUsers size={iconSize} />,
     disabled: false,
-    roles: [RoleEnum.ADMIN, RoleEnum.IEM],
+    roles: [RoleEnum.ADMIN, RoleEnum.IEM, RoleEnum.LAGERLEITER],
   },
 ];

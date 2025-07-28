@@ -89,7 +89,18 @@ export const DashboardRoutes = () => (
       >
         <Route path="/stats" element={<DashboardHomePage />} />
       </Route>
-      <Route element={<RequireAuthRoute roles={[RoleEnum.ADMIN]} />}>
+      <Route
+        element={
+          <RequireAuthRoute
+            roles={[
+              RoleEnum.ADMIN,
+              RoleEnum.LAGERLEITER,
+              RoleEnum.IEM,
+              RoleEnum.WAREHOUSE_EMPLOYEE,
+            ]}
+          />
+        }
+      >
         <Route path="/users" element={<DashboardUsersPageV2 />} />
       </Route>
       <Route

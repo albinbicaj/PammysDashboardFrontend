@@ -9,6 +9,7 @@ import axios from '../../../utils/axios';
 import { Trans, useTranslation } from 'react-i18next';
 import { Checkbox } from '@mui/material';
 import showToast from '../../../hooks/useToast';
+import { BlackCheckbox } from '../../UI/BlackCheckbox';
 
 export const StoreCreditModal = ({ showModal, handleSubmit }) => {
   const { t } = useTranslation();
@@ -179,29 +180,30 @@ export const StoreCreditModal = ({ showModal, handleSubmit }) => {
               </div>
 
               <div>
-                <div
-                  className={`${
-                    checkboxError ? 'dbg-red' : ''
-                  } flex w-full items-start gap-2 py-2 text-left text-xs`}
-                >
-                  <input
-                    type="checkbox"
-                    id="agreement-checkbox"
-                    required
-                    onChange={() => {
-                      setCheckbox(!checkbox);
-                      setCheckboxError(false);
-                    }}
-                    checked={checkbox}
-                    className="h-4 w-4"
-                  />
-                  <p>
-                    <Trans i18nKey="storeCreditModal.agreement" components={{ bold: <strong /> }} />
-                  </p>
+                <div>
+                  <div
+                    className={`${checkboxError ? 'bg-red' : ''} flex w-full items-start gap-2 py-2 text-left text-xs`}
+                  >
+                    <BlackCheckbox
+                      checked={checkbox}
+                      onChange={() => {
+                        setCheckbox(!checkbox);
+                        setCheckboxError(false);
+                      }}
+                    />
+                    <p>
+                      <Trans
+                        i18nKey="storeCreditModal.agreement"
+                        components={{ bold: <strong /> }}
+                      />
+                    </p>
+                  </div>
+                  {checkboxError && (
+                    <p className="pl-[24px] text-sm text-red-500">
+                      Please read and accept the agreement.
+                    </p>
+                  )}
                 </div>
-                {checkboxError && (
-                  <p className="text-sm text-red-500">Please read and accept the agreement.</p>
-                )}
               </div>
 
               {orderContext.giftCardNotAvailable ? (

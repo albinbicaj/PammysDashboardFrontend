@@ -56,11 +56,12 @@ export const DashboardLayout = ({ children }) => {
           {children}
         </main>
 
-        {user?.role_id === RoleEnum.ADMIN ||
+        {(user?.role_id === RoleEnum.ADMIN ||
           user?.role_id === RoleEnum.WAREHOUSE_EMPLOYEE ||
-          (user?.role_id === RoleEnum.IEM && (
-            <UserModal open={isModalOpen} handleClose={handleCloseModal} />
-          ))}
+          user?.role_id === RoleEnum.IEM ||
+          user?.role_id === RoleEnum.LAGERLEITER) && (
+          <UserModal open={isModalOpen} handleClose={handleCloseModal} />
+        )}
       </div>
       <HeaderV2 menu={menu} toggleMenu={toggleMenu} />
       <UpdateBanner />

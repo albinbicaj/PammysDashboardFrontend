@@ -19,7 +19,10 @@ const DashboardAddStockPage = () => {
     const savedSubActiveTab = localStorage.getItem('subActiveTab');
     return savedSubActiveTab ? parseInt(savedSubActiveTab, 10) : 0;
   });
-
+  const [subAddActiveTab, setAddSubActiveTab] = useState(() => {
+    const savedSubAddActiveTab = localStorage.getItem('subAddActiveTab');
+    return savedSubAddActiveTab ? parseInt(savedSubAddActiveTab, 10) : 0;
+  });
   const [completed, setCompleted] = useState({});
   const [handleSubmitLoading, setHandleSubmitLoading] = useState(false);
   const [logs, setLogs] = useState(() => {
@@ -46,13 +49,19 @@ const DashboardAddStockPage = () => {
     localStorage.setItem('googleSheetName', googleSheetName);
     localStorage.setItem('activeTab', activeTab);
     localStorage.setItem('subActiveTab', subActiveTab);
-  }, [logs, googleSheetName, activeTab, subActiveTab]);
+    localStorage.setItem('subAddActiveTab', subAddActiveTab);
+  }, [logs, googleSheetName, activeTab, subActiveTab, subAddActiveTab]);
 
   useEffect(() => {
     if (activeTab === 'count_scanning') {
       const savedSubActiveTab = localStorage.getItem('subActiveTab');
       const parsedSubActiveTab = savedSubActiveTab ? parseInt(savedSubActiveTab, 10) : 0;
       setSubActiveTab(parsedSubActiveTab);
+    }
+    if (activeTab === 'add_scanning') {
+      const savedSubAddActiveTab = localStorage.getItem('subAddActiveTab');
+      const parsedSubAddActiveTab = savedSubAddActiveTab ? parseInt(savedSubAddActiveTab, 10) : 0;
+      setAddSubActiveTab(parsedSubAddActiveTab);
     }
   }, [activeTab]);
 
@@ -179,11 +188,13 @@ const DashboardAddStockPage = () => {
     const effectiveBarcode = barcodeMappings[barcode] || barcode;
     const product = productsData?.find((item) => item.barcode_number === effectiveBarcode);
     if (product) {
-      const effectiveCartonSize = isEditable
-        ? cartonSize
-        : subActiveTab === 1 && activeTab === 'count_scanning'
+      const effectiveCartonSize =
+        (subActiveTab === 1 && activeTab === 'count_scanning') ||
+        (subAddActiveTab === 1 && activeTab === 'add_scanning')
           ? '1'
-          : product.quantity_in_box.toString();
+          : isEditable
+            ? cartonSize
+            : product.quantity_in_box.toString();
       const logEntry = {
         id: product.id,
         variant_name: `${product?.product?.title} - ${product.title}`,
@@ -248,6 +259,8 @@ const DashboardAddStockPage = () => {
       handleRemoveLog={handleRemoveLog}
       subActiveTab={subActiveTab}
       setSubActiveTab={setSubActiveTab}
+      subAddActiveTab={subAddActiveTab}
+      setAddSubActiveTab={setAddSubActiveTab}
     />
   );
 };

@@ -41,7 +41,7 @@ const ScannerListener = ({ handleScan }) => {
       if (timeoutRef.current) clearTimeout(timeoutRef.current);
       timeoutRef.current = setTimeout(() => {
         barcodeScanRef.current = '';
-      }, 10000);
+      }, 500);
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
@@ -76,6 +76,8 @@ const DashboardAddStockUIPage = ({
   handleRemoveLog,
   subActiveTab,
   setSubActiveTab,
+  subAddActiveTab,
+  setAddSubActiveTab,
 }) => {
   return (
     <div className="returns-container p-4">
@@ -146,6 +148,9 @@ const DashboardAddStockUIPage = ({
                   setIsEditable={setIsEditable}
                   googleSheetName={googleSheetName}
                   setGoogleSheetName={setGoogleSheetName}
+                  subAddActiveTab={subAddActiveTab}
+                  setSubAddActiveTab={setAddSubActiveTab}
+                  logs={logs}
                 />
               </TabPanel>
               <TabPanel value={activeTab} index="count_scanning">

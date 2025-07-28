@@ -6,9 +6,7 @@ import path from 'path';
 
 function writeVersionJson() {
   const timestamp = new Date().toISOString();
-  const versionData = {
-    version: timestamp,
-  };
+  const versionData = { version: timestamp };
   const versionFilePath = path.resolve(__dirname, 'public/version.json');
   fs.writeFileSync(versionFilePath, JSON.stringify(versionData, null, 2));
   console.log(`📝 version.json generated: ${timestamp}`);
@@ -27,8 +25,9 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       strategies: 'generateSW',
+      includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
       workbox: {
-        globPatterns: ['**/*.{js,css,html,ico,png,svg,json}'],
+        globPatterns: ['**/*.{js,css,html,ico,png,svg,json,webp}'],
         navigateFallback: '/index.html',
         runtimeCaching: [
           {
@@ -44,9 +43,7 @@ export default defineConfig({
           },
           {
             urlPattern: ({ request }) =>
-              request.destination === 'script' ||
-              request.destination === 'style' ||
-              request.destination === 'worker',
+              ['style', 'script', 'worker'].includes(request.destination),
             handler: 'StaleWhileRevalidate',
             options: {
               cacheName: 'assets-cache',
@@ -58,7 +55,6 @@ export default defineConfig({
           },
         ],
       },
-      includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
       manifest: {
         name: 'My React Vite App',
         short_name: 'ReactVite',
